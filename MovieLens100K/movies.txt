@@ -1,0 +1,1682 @@
+1,1995,3.88,452,{4,5,6},#Toy Story#
+2,1995,3.21,131,{2,3,17},#GoldenEye#
+3,1995,3.03,90,{17},#Four Rooms#
+4,1995,3.55,209,{2,6,9},#Get Shorty#
+5,1995,3.3,86,{7,9,17},#Copycat#
+6,1995,3.58,26,{9},#Shanghai Triad#
+7,1995,3.8,392,{9,16},#Twelve Monkeys#
+8,1995,4.0,219,{5,6,9},#Babe#
+9,1995,3.9,299,{9},#Dead Man Walking#
+10,1996,3.83,89,{9,18},#Richard III#
+11,1995,3.85,236,{7,17},#Seven#
+12,1995,4.39,267,{7,17},#Usual Suspects, The#
+13,1995,3.42,184,{6},#Mighty Aphrodite#
+14,1994,3.97,183,{9,15},#Postino, Il#
+15,1996,3.78,293,{9},#Mr. Holland's Opus#
+16,1995,3.21,39,{6,15},#French Twist#
+17,1996,3.12,92,{2,6,7,12,17},#From Dusk Till Dawn#
+18,1995,2.8,10,{9},#White Balloon, The#
+19,1995,3.96,69,{9},#Antonia's Line#
+20,1995,3.42,72,{9,15},#Angels and Insects#
+21,1996,2.76,84,{2,3,6,13,17},#Muppet Treasure Island#
+22,1996,4.15,297,{2,9,18},#Braveheart#
+23,1996,4.12,182,{9,17},#Taxi Driver#
+24,1996,3.45,174,{2,3,7},#Rumble in the Bronx#
+25,1996,3.44,293,{6},#Birdcage, The#
+26,1995,3.45,73,{6},#Brothers McMullen, The#
+27,1995,3.11,57,{2},#Bad Boys#
+28,1995,3.93,276,{2,9,17},#Apollo 13#
+29,1995,2.67,114,{2,3,6,7},#Batman Forever#
+30,1967,3.95,37,{9},#Belle de jour#
+31,1995,3.63,154,{9,17,18},#Crimson Tide#
+32,1994,3.79,81,{8},#Crumb#
+33,1995,3.45,97,{2,15,17},#Desperado#
+34,1995,2.71,7,{6,9},#Doom Generation, The#
+35,1995,2.18,11,{3,5,9},#Free Willy 2: The Adventure Home#
+36,1995,2.15,13,{9,15},#Mad Love#
+37,1994,2.25,8,{9},#Nadja#
+38,1995,3.01,120,{16,17},#Net, The#
+39,1995,3.26,87,{2,7,16},#Strange Days#
+40,1995,2.89,57,{6},#To Wong Foo, Thanks for Everything! Julie Newmar#
+41,1995,3.08,37,{6},#Billy Madison#
+42,1994,3.8,148,{6},#Clerks#
+43,1994,3.0,40,{9,17},#Disclosure#
+44,1994,3.34,79,{9,17},#Dolores Claiborne#
+45,1994,4.05,80,{6,9},#Eat Drink Man Woman#
+46,1994,3.56,27,{9},#Exotica#
+47,1994,3.6,133,{6,9},#Ed Wood#
+48,1994,4.09,117,{8},#Hoop Dreams#
+49,1994,3.32,81,{6,15},#I.Q.#
+50,1977,4.36,583,{2,3,15,16,18},#Star Wars#
+51,1994,3.46,81,{9,15,18,19},#Legends of the Fall#
+52,1994,3.77,91,{9},#Madness of King George, The#
+53,1994,2.95,128,{2,17},#Natural Born Killers#
+54,1995,3.24,104,{2,9,17},#Outbreak#
+55,1994,3.7,149,{7,9,15,17},#Professional, The#
+56,1994,4.06,394,{7,9},#Pulp Fiction#
+57,1994,4.0,40,{9},#Priest#
+58,1994,3.65,175,{9},#Quiz Show#
+59,1994,4.06,83,{9},#Three Colors: Red#
+60,1993,4.02,64,{9},#Three Colors: Blue#
+61,1994,3.86,59,{9},#Three Colors: White#
+62,1994,3.14,127,{2,3,16},#Stargate#
+63,1994,3.1,82,{5,6},#Santa Clause, The#
+64,1994,4.45,283,{9},#Shawshank Redemption, The#
+65,1993,3.54,115,{6,9},#What's Eating Gilbert Grape#
+66,1995,3.55,162,{6,15},#While You Were Sleeping#
+67,1994,3.05,103,{6},#Ace Ventura: Pet Detective#
+68,1994,3.42,134,{2,15,17},#Crow, The#
+69,1994,3.85,321,{6,15,18},#Forrest Gump#
+70,1994,3.66,251,{6,15},#Four Weddings and a Funeral#
+71,1994,3.78,220,{4,5,13},#Lion King, The#
+72,1994,3.19,129,{6,7,10},#Mask, The#
+73,1994,3.47,128,{2,6,19},#Maverick#
+74,1965,3.0,7,{2,6,9},#Faster Pussycat! Kill! Kill!#
+75,1994,3.0,5,{8},#Brother Minister: The Assassination of Malcolm X#
+76,1993,3.41,54,{7,9},#Carlito's Way#
+77,1993,3.28,151,{9,17},#Firm, The#
+78,1993,2.45,33,{3,5,9},#Free Willy#
+79,1993,4.04,336,{2,17},#Fugitive, The#
+80,1993,2.76,68,{2,6,18},#Hot Shots! Part Deux#
+81,1994,3.55,110,{6,15},#Hudsucker Proxy, The#
+82,1993,3.72,261,{2,3,16},#Jurassic Park#
+83,1993,4.06,176,{6,15},#Much Ado About Nothing#
+84,1994,3.0,18,{12,16},#Robert A. Heinlein's The Puppet Masters#
+85,1994,3.03,58,{6},#Ref, The#
+86,1993,3.94,150,{9},#Remains of the Day, The#
+87,1993,3.91,138,{9},#Searching for Bobby Fischer#
+88,1993,3.54,213,{6,15},#Sleepless in Seattle#
+89,1982,4.14,275,{11,16},#Blade Runner#
+90,1993,3.05,95,{6,15,17},#So I Married an Axe Murderer#
+91,1993,3.59,143,{5,6,13},#Nightmare Before Christmas, The#
+92,1993,3.62,104,{2,7,15},#True Romance#
+93,1996,3.72,112,{6,9},#Welcome to the Dollhouse#
+94,1990,3.09,137,{5,6},#Home Alone#
+95,1992,3.81,219,{4,5,6,13},#Aladdin#
+96,1991,4.01,295,{2,16,17},#Terminator 2: Judgment Day#
+97,1990,3.79,256,{3,9,19},#Dances with Wolves#
+98,1991,4.29,390,{9,17},#Silence of the Lambs, The#
+99,1937,3.71,172,{4,5,13},#Snow White and the Seven Dwarfs#
+100,1997,4.16,508,{7,9,17},#Fargo#
+101,1981,3.26,73,{2,3,4,12,16},#Heavy Metal#
+102,1970,3.13,54,{4,5},#Aristocats, The#
+103,1996,1.87,15,{4,5,13},#All Dogs Go to Heaven 2#
+104,1996,1.4,5,{6},#Theodore Rex#
+105,1996,2.57,74,{6},#Sgt. Bilko#
+106,1996,2.89,71,{9,17},#Diabolique#
+107,1996,3.5,42,{9},#Moll Flanders#
+108,1996,3.08,65,{6},#Kids in the Hall: Brain Candy#
+109,1996,3.43,130,{6,16},#Mystery Science Theater 3000: The Movie#
+110,1995,2.52,31,{2,3,6,18},#Operation Dumbo Drop#
+111,1996,3.49,272,{6,15},#Truth About Cats & Dogs, The#
+112,1996,2.45,20,{3,5},#Flipper#
+113,1996,4.11,9,{9},#Horseman on the Roof, The#
+114,1996,4.45,67,{4},#Wallace & Gromit: The Best of Aardman Animation#
+115,1996,3.73,15,{8},#Haunted World of Edward D. Wood Jr., The#
+116,1996,3.82,125,{6},#Cold Comfort Farm#
+117,1996,3.69,378,{2,3,17},#Rock, The#
+118,1996,3.22,293,{2,3,17},#Twister#
+119,1994,4.5,4,{8},#Maya Lin: A Strong Clear Vision#
+120,1996,2.24,67,{6,7},#Striptease#
+121,1996,3.44,429,{2,16,18},#Independence Day#
+122,1996,2.34,106,{6},#Cable Guy, The#
+123,1996,3.23,115,{6,12},#Frighteners, The#
+124,1996,4.05,187,{9,14},#Lone Star#
+125,1996,3.56,244,{9,15},#Phenomenon#
+126,1996,3.8,97,{9},#Spitfire Grill, The#
+127,1972,4.28,413,{2,7,9},#Godfather, The#
+128,1996,3.54,65,{2,17},#Supercop#
+129,1996,3.82,129,{7,9,15,17},#Bound#
+130,1996,2.26,23,{7},#Kansas City#
+131,1961,3.73,95,{9,15},#Breakfast at Tiffany's#
+132,1939,4.08,246,{3,5,9,13},#Wizard of Oz, The#
+133,1939,3.87,171,{9,15,18},#Gone with the Wind#
+134,1941,4.29,198,{9},#Citizen Kane#
+135,1968,3.97,259,{9,14,16,17},#2001: A Space Odyssey#
+136,1939,4.12,105,{9},#Mr. Smith Goes to Washington#
+137,1996,3.9,171,{9},#Big Night#
+138,1996,2.58,19,{5,6},#D3: The Mighty Ducks#
+139,1969,2.78,50,{5,6},#Love Bug, The#
+140,1993,3.21,61,{3,5},#Homeward Bound: The Incredible Journey#
+141,1954,3.5,72,{3,5,10,16},#20,000 Leagues Under the Sea#
+142,1971,3.07,57,{3,5,13},#Bedknobs and Broomsticks#
+143,1965,3.77,222,{13},#Sound of Music, The#
+144,1988,3.87,243,{2,17},#Die Hard#
+145,1992,2.45,65,{2,16,17},#Lawnmower Man, The#
+146,1996,2.5,10,{9},#Unhook the Stars#
+147,1996,3.47,185,{2,17},#Long Kiss Goodnight, The#
+148,1996,3.2,128,{2,3},#Ghost and the Darkness, The#
+149,1996,3.0,23,{9},#Jude#
+150,1996,3.83,157,{6,9},#Swingers#
+151,1971,3.63,326,{3,5,6},#Willy Wonka and the Chocolate Factory#
+152,1973,3.63,82,{6,16},#Sleeper#
+153,1988,3.79,247,{6},#Fish Called Wanda, A#
+154,1979,3.75,174,{6},#Monty Python's Life of Brian#
+155,1987,3.1,98,{13,15},#Dirty Dancing#
+156,1992,3.99,148,{7,17},#Reservoir Dogs#
+157,1986,3.69,127,{9,18},#Platoon#
+158,1989,2.62,60,{6},#Weekend at Bernie's#
+159,1992,3.23,101,{14,17},#Basic Instinct#
+160,1992,3.46,69,{9},#Glengarry Glen Ross#
+161,1986,3.48,220,{2,15},#Top Gun#
+162,1981,3.56,106,{9},#On Golden Pond#
+163,1974,3.55,92,{6},#Return of the Pink Panther, The#
+164,1989,3.59,151,{2,3,16,17},#Abyss, The#
+165,1986,4.11,64,{9},#Jean de Florette#
+166,1986,4.12,58,{9},#Manon of the Spring#
+167,1980,2.96,67,{6},#Private Benjamin#
+168,1974,4.07,316,{6},#Monty Python and the Holy Grail#
+169,1993,4.47,118,{4,6},#Wrong Trousers, The#
+170,1988,4.17,121,{6,9,15},#Cinema Paradiso#
+171,1991,3.88,65,{6,16},#Delicatessen#
+172,1980,4.2,367,{2,3,9,15,16,18},#Empire Strikes Back, The#
+173,1987,4.17,324,{2,3,6,15},#Princess Bride, The#
+174,1981,4.25,420,{2,3},#Raiders of the Lost Ark#
+175,1985,3.82,208,{16},#Brazil#
+176,1986,3.95,284,{2,16,17,18},#Aliens#
+177,1966,3.86,137,{2,19},#Good, The Bad and The Ugly, The#
+178,1957,4.34,125,{9},#12 Angry Men#
+179,1971,3.91,221,{16},#Clockwork Orange, A#
+180,1979,4.05,221,{9,18},#Apocalypse Now#
+181,1997,4.01,507,{2,3,15,16,18},#Return of the Jedi#
+182,1990,3.95,226,{7,9},#GoodFellas#
+183,1979,4.03,291,{2,12,16,17},#Alien#
+184,1993,3.43,116,{2,3,6,12,16},#Army of Darkness#
+185,1960,4.1,239,{12,15,17},#Psycho#
+186,1980,3.84,251,{2,6,13},#Blues Brothers, The#
+187,1974,4.19,209,{2,7,9},#Godfather: Part II, The#
+188,1987,3.68,170,{2,9,18},#Full Metal Jacket#
+189,1992,4.11,66,{4,6},#Grand Day Out, A#
+190,1989,4.14,124,{9,18},#Henry V#
+191,1984,4.16,276,{9,14},#Amadeus#
+192,1980,4.12,116,{9},#Raging Bull#
+193,1983,3.92,157,{9},#Right Stuff, The#
+194,1973,4.06,241,{6,7},#Sting, The#
+195,1984,3.93,301,{2,16,17},#Terminator, The#
+196,1989,3.92,251,{9},#Dead Poets Society#
+197,1967,4.1,239,{9,15},#Graduate, The#
+198,1990,4.01,127,{17},#Nikita#
+199,1957,4.18,165,{9,18},#Bridge on the River Kwai, The#
+200,1980,3.83,206,{12},#Shining, The#
+201,1987,3.52,89,{2,3,6,12},#Evil Dead II#
+202,1993,3.76,280,{6,15},#Groundhog Day#
+203,1992,3.87,182,{19},#Unforgiven#
+204,1985,3.83,350,{6,16},#Back to the Future#
+205,1970,3.99,136,{9,18},#Patton#
+206,1988,3.38,50,{3,4,16,17},#Akira#
+207,1990,3.82,66,{2,9,15},#Cyrano de Bergerac#
+208,1974,3.94,200,{6,12},#Young Frankenstein#
+209,1984,3.91,191,{6,9,13},#This Is Spinal Tap#
+210,1989,3.93,331,{2,3},#Indiana Jones and the Last Crusade#
+211,1970,3.91,206,{6,18},#M*A*S*H#
+212,1988,3.46,92,{9},#Unbearable Lightness of Being, The#
+213,1986,3.99,134,{9,15},#Room with a View, A#
+214,1982,3.35,114,{9,13,18},#Pink Floyd - The Wall#
+215,1989,3.7,212,{9},#Field of Dreams#
+216,1989,3.91,290,{6,15},#When Harry Met Sally...#
+217,1992,3.16,120,{12,15},#Bram Stoker's Dracula#
+218,1991,3.46,171,{17},#Cape Fear#
+219,1984,3.17,111,{12},#Nightmare on Elm Street, A#
+220,1996,3.36,66,{6,15},#Mirror Has Two Faces, The#
+221,1996,3.73,74,{9},#Breaking the Waves#
+222,1996,3.66,365,{2,3,16},#Star Trek: First Contact#
+223,1996,4.2,136,{9,17},#Sling Blade#
+224,1996,3.7,44,{9},#Ridicule#
+225,1996,2.91,109,{5,6},#101 Dalmatians#
+226,1990,3.36,166,{2,17},#Die Hard 2#
+227,1991,3.28,161,{2,3,16},#Star Trek VI: The Undiscovered Country#
+228,1982,3.82,244,{2,3,16},#Star Trek: The Wrath of Khan#
+229,1984,3.11,171,{2,3,16},#Star Trek III: The Search for Spock#
+230,1986,3.45,199,{2,3,16},#Star Trek IV: The Voyage Home#
+231,1992,2.68,142,{2,3,6,7},#Batman Returns#
+232,1988,3.21,101,{2,6,19},#Young Guns#
+233,1992,3.29,124,{2},#Under Siege#
+234,1975,3.77,280,{2,12},#Jaws#
+235,1996,2.85,217,{2,6,16,18},#Mars Attacks!#
+236,1996,3.62,45,{6,9},#Citizen Ruth#
+237,1996,3.71,384,{9,15},#Jerry Maguire#
+238,1987,3.88,256,{6},#Raising Arizona#
+239,1992,3.51,150,{7,9,16},#Sneakers#
+240,1996,2.79,156,{4,6},#Beavis and Butt-head Do America#
+241,1992,3.55,128,{2,15,18},#Last of the Mohicans, The#
+242,1997,3.99,117,{6},#Kolya#
+243,1997,2.44,132,{5,6},#Jungle2Jungle#
+244,1997,3.17,48,{2,9,17},#Smilla's Sense of Snow#
+245,1997,3.11,240,{2,9,17,18},#Devil's Own, The#
+246,1997,3.94,124,{9,15},#Chasing Amy#
+247,1997,1.8,5,{2,3,5},#Turbo: A Power Rangers Movie#
+248,1997,3.67,160,{6,7},#Grosse Pointe Blank#
+249,1997,3.25,130,{6},#Austin Powers: International Man of Mystery#
+250,1997,3.48,197,{2,16},#Fifth Element, The#
+251,1997,4.26,46,{6},#Shall We Dance?#
+252,1997,2.94,158,{2,3,16,17},#Lost World: Jurassic Park, The#
+253,1997,3.69,26,{9,15},#Pillow Book, The#
+254,1997,2.45,62,{2,3,7},#Batman & Robin#
+255,1997,3.36,172,{6,15},#My Best Friend's Wedding#
+256,1997,3.56,16,{6,15},#When the Cats Away#
+257,1997,3.75,303,{2,3,6,16},#Men in Black#
+258,1997,3.8,509,{9,16},#Contact#
+259,1997,2.69,162,{5,6},#George of the Jungle#
+260,1997,2.57,127,{2,14,16,17},#Event Horizon#
+261,1997,2.56,43,{5,6},#Air Bud#
+262,1997,3.71,66,{9},#In the Company of Men#
+263,1997,2.16,19,{2},#Steel#
+264,1997,2.74,101,{16,17},#Mimic#
+265,1990,3.86,227,{2,17},#Hunt for Red October, The#
+266,1997,2.71,35,{2,3},#Kull the Conqueror#
+267,-1,3.44,9,{1},#unknown#
+268,1997,3.79,255,{9,15},#Chasing Amy#
+269,1997,3.93,315,{6},#Full Monty, The#
+270,1997,3.6,136,{9,16,17},#Gattaca#
+271,1997,3.23,211,{2,3,16,18},#Starship Troopers#
+272,1997,4.26,198,{9},#Good Will Hunting#
+273,1995,3.57,223,{2,7,17},#Heat#
+274,1995,3.5,190,{6,15},#Sabrina#
+275,1995,4.01,268,{9,15},#Sense and Sensibility#
+276,1995,3.7,298,{9,15},#Leaving Las Vegas#
+277,1995,3.46,71,{9},#Restoration#
+278,1996,3.23,60,{9,15},#Bed of Roses#
+279,1995,3.29,28,{9},#Once Upon a Time... When We Were Colored#
+280,1996,3.19,85,{9,15},#Up Close and Personal#
+281,1994,3.14,146,{2,17},#River Wild, The#
+282,1996,3.69,232,{9},#Time to Kill, A#
+283,1996,3.72,177,{9,15},#Emma#
+284,1996,3.16,193,{6,15},#Tin Cup#
+285,1996,4.27,162,{9},#Secrets & Lies#
+286,1996,3.66,481,{9,15,18},#English Patient, The#
+287,1996,3.59,78,{9},#Marvin's Room#
+288,1996,3.44,478,{12,17},#Scream#
+289,1996,2.98,259,{9,13},#Evita#
+290,1997,3.11,96,{6},#Fierce Creatures#
+291,1997,3.37,127,{14,17},#Absolute Power#
+292,1997,3.67,114,{9},#Rosewood#
+293,1997,3.8,147,{7,9},#Donnie Brasco#
+294,1997,3.16,485,{6},#Liar Liar#
+295,1997,3.4,77,{2,17},#Breakdown#
+296,1997,3.33,6,{9},#Promesse, La#
+297,1997,3.96,50,{9},#Ulee's Gold#
+298,1997,3.77,194,{2,16,17},#Face/Off#
+299,1997,2.93,73,{7,9,11},#Hoodlum#
+300,1997,3.63,431,{2,17},#Air Force One#
+301,1997,3.3,230,{6},#In & Out#
+302,1997,4.16,297,{7,11,14,17},#L.A. Confidential#
+303,1997,3.69,134,{9},#Ulee's Gold#
+304,1996,3.54,149,{3,5},#Fly Away Home#
+305,1997,3.64,87,{9},#Ice Storm, The#
+306,1997,3.95,96,{9,15},#Mrs. Brown#
+307,1997,3.52,188,{7,12,14,17},#Devil's Advocate, The#
+308,1997,2.97,30,{5,9,10},#FairyTale: A True Story#
+309,1997,2.86,28,{7},#Deceiver#
+310,1997,3.6,145,{9},#Rainmaker, The#
+311,1997,3.68,75,{9,15,17},#Wings of the Dove, The#
+312,1997,3.16,80,{6,7,9,14},#Midnight in the Garden of Good and Evil#
+313,1997,4.25,350,{2,9,15},#Titanic#
+314,1997,1.0,5,{2,5},#3 Ninjas: High Noon At Mega Mountain#
+315,1998,4.1,160,{9,17},#Apt Pupil#
+316,1997,4.2,112,{6,9},#As Good As It Gets#
+317,1993,3.91,102,{9},#In the Name of the Father#
+318,1993,4.47,298,{9,18},#Schindler's List#
+319,1996,3.27,168,{6,13,15},#Everyone Says I Love You#
+320,1996,4.05,20,{8},#Paradise Lost: The Child Murders at Robin Hood Hills#
+321,1996,3.13,169,{6},#Mother#
+322,1997,3.09,218,{14,17},#Murder at 1600#
+323,1997,2.93,240,{2,17},#Dante's Peak#
+324,1997,3.14,125,{14},#Lost Highway#
+325,1997,2.55,128,{9,17},#Crash#
+326,1997,3.36,175,{2,9,18},#G.I. Jane#
+327,1997,3.38,175,{7,9,14},#Cop Land#
+328,1997,3.42,295,{2,14,15,17},#Conspiracy Theory#
+329,1998,3.33,45,{7,9,17},#Desperate Measures#
+330,1997,3.02,41,{9},#187#
+331,1997,3.54,113,{3,17},#Edge, The#
+332,1997,3.46,143,{7,9,17},#Kiss the Girls#
+333,1997,3.59,251,{14,17},#Game, The#
+334,1997,3.36,64,{2,7,14},#U Turn#
+335,1997,2.76,21,{6},#How to Be a Player#
+336,1997,2.63,43,{7,17},#Playing God#
+337,1997,3.0,18,{6,9,17},#House of Yes, The#
+338,1997,2.66,91,{6},#Bean#
+339,1997,3.26,47,{2,9},#Mad City#
+340,1997,3.59,189,{9},#Boogie Nights#
+341,1997,3.09,11,{6},#Critical Care#
+342,1997,2.92,52,{6,14},#Man Who Knew Too Little, The#
+343,1997,3.1,124,{2,12,16},#Alien: Resurrection#
+344,1997,3.65,55,{9},#Apostle, The#
+345,1997,3.4,65,{6,9},#Deconstructing Harry#
+346,1997,3.64,126,{7,9},#Jackie Brown#
+347,1998,3.51,137,{6,9},#Wag the Dog#
+348,1998,3.3,27,{7,9,17},#Desperate Measures#
+349,1998,2.9,31,{2,17},#Hard Rain#
+350,1998,3.15,41,{2,14,17},#Fallen#
+351,1998,2.7,20,{12},#Prophecy II, The#
+352,1997,2.12,26,{6,13},#Spice World#
+353,1998,2.43,14,{2,12,16},#Deep Rising#
+354,1998,3.49,72,{6,15},#Wedding Singer, The#
+355,1998,2.93,41,{3,16,17},#Sphere#
+356,1994,3.38,97,{9,14,17},#Client, The#
+357,1975,4.29,264,{9},#One Flew Over the Cuckoo's Nest#
+358,1997,2.62,143,{2,3,16,17},#Spawn#
+359,1997,3.5,18,{17},#Assignment, The#
+360,1997,3.2,10,{8},#Wonderland#
+361,1997,3.5,10,{7,17},#Incognito#
+362,1998,2.82,28,{2,6,13},#Blues Brothers 2000#
+363,1995,2.72,47,{2},#Sudden Death#
+364,1995,2.68,37,{6},#Ace Ventura: When Nature Calls#
+365,1995,3.21,48,{9},#Powder#
+366,1995,3.34,47,{9},#Dangerous Minds#
+367,1995,3.46,170,{6},#Clueless#
+368,1996,1.9,31,{6},#Bio-Dome#
+369,1996,2.64,55,{6},#Black Sheep#
+370,1996,2.82,39,{9,17},#Mary Reilly#
+371,1996,3.16,67,{9,15},#Bridges of Madison County, The#
+372,1995,3.53,34,{6},#Jeffrey#
+373,1995,2.9,39,{2,3,16},#Judge Dredd#
+374,1995,2.27,11,{2,5},#Mighty Morphin Power Rangers: The Movie#
+375,1995,1.96,23,{9},#Showgirls#
+376,1994,2.83,24,{6},#Houseguest#
+377,1994,2.15,13,{5,6},#Heavyweights#
+378,1994,3.72,101,{9},#Miracle on 34th Street#
+379,1995,2.98,43,{12},#Tales From the Crypt Presents: Demon Knight#
+380,1994,3.34,116,{2,3,16},#Star Trek: Generations#
+381,1994,3.55,100,{6,15},#Muriel's Wedding#
+382,1994,3.59,111,{6,9},#Adventures of Priscilla, Queen of the Desert, The#
+383,1994,2.06,31,{5,6},#Flintstones, The#
+384,1994,2.78,69,{6},#Naked Gun 33 1/3: The Final Insult#
+385,1994,3.56,208,{2,3,6,15},#True Lies#
+386,1993,2.82,87,{6},#Addams Family Values#
+387,1993,3.38,65,{9},#Age of Innocence, The#
+388,1994,2.39,28,{2,6},#Beverly Hills Cop III#
+389,1994,3.44,27,{3,5},#Black Beauty#
+390,1993,3.2,10,{6},#Fear of a Black Hat#
+391,1993,2.75,59,{2,6},#Last Action Hero#
+392,1993,3.54,68,{9},#Man Without a Face, The#
+393,1993,3.41,192,{6},#Mrs. Doubtfire#
+394,1994,3.33,12,{6,14,15},#Radioland Murders#
+395,1993,2.59,56,{6},#Robin Hood: Men in Tights#
+396,1994,2.81,54,{6,7,12},#Serial Mom#
+397,1993,2.58,12,{2},#Striking Distance#
+398,1993,2.08,26,{2,3,5,16},#Super Mario Bros.#
+399,1993,3.3,89,{2,3,6},#Three Musketeers, The#
+400,1994,2.72,18,{5,6},#Little Rascals, The#
+401,1995,2.8,76,{6},#Brady Bunch Movie, The#
+402,1990,3.46,170,{6,15,17},#Ghost#
+403,1989,3.43,201,{2,3,7,9},#Batman#
+404,1940,3.67,101,{4,5},#Pinocchio#
+405,1996,3.31,344,{2,3,14},#Mission: Impossible#
+406,1996,2.45,49,{12,17},#Thinner#
+407,1996,2.51,43,{6},#Spy Hard#
+408,1996,4.49,112,{4,6,17},#Close Shave, A#
+409,1996,3.14,70,{6,9},#Jack#
+410,1996,3.13,162,{6},#Kingpin#
+411,1996,2.91,163,{6,10,15,16},#Nutty Professor, The#
+412,1996,2.4,93,{6},#Very Brady Sequel, A#
+413,1996,2.64,55,{12},#Tales from the Crypt Presents: Bordello of Blood#
+414,1982,3.53,62,{6},#My Favorite Year#
+415,1975,2.84,25,{5,6,19},#Apple Dumpling Gang, The#
+416,1957,3.48,64,{5,9},#Old Yeller#
+417,1961,3.1,73,{5,9},#Parent Trap, The#
+418,1950,3.58,129,{4,5,13},#Cinderella#
+419,1964,3.72,178,{5,6,13},#Mary Poppins#
+420,1951,3.67,81,{4,5,13},#Alice in Wonderland#
+421,1996,3.59,106,{9,15},#William Shakespeare's Romeo and Juliet#
+422,1996,2.85,26,{4,5,6},#Aladdin and the King of Thieves#
+423,1982,3.83,300,{5,9,10,16},#E.T. the Extra-Terrestrial#
+424,1996,1.32,19,{12},#Children of the Corn: The Gathering#
+425,1992,3.74,85,{6},#Bob Roberts#
+426,1986,2.84,32,{2,4,5,16,17,18},#Transformers: The Movie, The#
+427,1962,4.29,219,{9},#To Kill a Mockingbird#
+428,1971,3.82,121,{6},#Harold and Maude#
+429,1951,3.94,97,{9,16},#Day the Earth Stood Still, The#
+430,1933,4.0,93,{6,18},#Duck Soup#
+431,1986,3.54,153,{2,3},#Highlander#
+432,1940,3.77,174,{4,5,13},#Fantasia#
+433,1989,3.69,171,{6},#Heathers#
+434,1956,3.84,67,{16},#Forbidden Planet#
+435,1969,3.95,216,{2,6,19},#Butch Cassidy and the Sundance Kid#
+436,1981,3.54,99,{12},#American Werewolf in London, An#
+437,1992,1.0,5,{12},#Amityville 1992: It's About Time#
+438,1983,1.17,6,{12},#Amityville 3-D#
+439,1993,1.0,5,{12},#Amityville: A New Generation#
+440,1982,1.64,14,{12},#Amityville II: The Possession#
+441,1979,2.57,53,{12},#Amityville Horror, The#
+442,1990,1.25,4,{12},#Amityville Curse, The#
+443,1963,3.81,162,{12},#Birds, The#
+444,1958,2.72,46,{12,16},#Blob, The#
+445,1945,3.5,22,{12},#Body Snatcher, The#
+446,1976,2.44,9,{12},#Burnt Offerings#
+447,1976,3.5,121,{12},#Carrie#
+448,1976,3.39,85,{12},#Omen, The#
+449,1979,3.03,117,{2,3,16},#Star Trek: The Motion Picture#
+450,1989,2.4,63,{2,3,16},#Star Trek V: The Final Frontier#
+451,1978,3.35,170,{6,13,15},#Grease#
+452,1978,2.67,66,{2,12},#Jaws 2#
+453,1983,1.94,16,{2,12},#Jaws 3-D#
+454,1996,2.88,16,{9},#Bastard Out of Carolina#
+455,1997,3.26,145,{2},#Jackie Chan's First Strike#
+456,1997,2.31,48,{2,6},#Beverly Hills Ninja#
+457,1997,1.74,27,{3,5,9},#Free Willy 3: The Rescue#
+458,1995,3.12,90,{9},#Nixon#
+459,1995,3.75,24,{9},#Cry, the Beloved Country#
+460,1995,3.0,28,{9},#Crossing Guard, The#
+461,1995,3.62,74,{9},#Smoke#
+462,1992,3.8,148,{9,15},#Like Water For Chocolate#
+463,1994,3.86,71,{3},#Secret of Roan Inish, The#
+464,1994,3.59,27,{9},#Vanya on 42nd Street#
+465,1994,3.56,85,{3,5,15},#Jungle Book, The#
+466,1992,3.6,52,{17},#Red Rock West#
+467,1993,3.79,48,{9},#Bronx Tale, A#
+468,1993,3.31,64,{9},#Rudy#
+469,1993,3.78,67,{9},#Short Cuts#
+470,1993,3.67,108,{19},#Tombstone#
+471,1996,3.61,221,{9,18},#Courage Under Fire#
+472,1996,3.08,158,{2,3,10},#Dragonheart#
+473,1996,3.13,126,{4,5,13},#James and the Giant Peach#
+474,1963,4.25,194,{16,18},#Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb#
+475,1996,3.88,250,{9},#Trainspotting#
+476,1996,3.02,160,{6},#First Wives Club, The#
+477,1996,3.21,95,{5,6},#Matilda#
+478,1940,4.12,104,{6,15},#Philadelphia Story, The#
+479,1958,4.25,179,{14,17},#Vertigo#
+480,1959,4.28,179,{6,17},#North by Northwest#
+481,1960,3.94,63,{6,9},#Apartment, The#
+482,1959,3.98,128,{6,7},#Some Like It Hot#
+483,1942,4.46,243,{9,15,18},#Casablanca#
+484,1941,4.21,138,{11,14},#Maltese Falcon, The#
+485,1964,3.82,125,{13,15},#My Fair Lady#
+486,1954,3.8,64,{6,15},#Sabrina#
+487,1953,4.1,68,{6,15},#Roman Holiday#
+488,1950,4.2,65,{11},#Sunset Blvd.#
+489,1946,4.12,52,{11,15,17},#Notorious#
+490,1955,4.02,50,{6,15,17},#To Catch a Thief#
+491,1938,3.79,67,{2,3},#Adventures of Robin Hood, The#
+492,1955,3.86,59,{9},#East of Eden#
+493,1934,4.15,60,{14},#Thin Man, The#
+494,1940,4.0,56,{6},#His Girl Friday#
+495,1956,3.66,59,{3,6},#Around the World in 80 Days#
+496,1946,4.12,231,{9},#It's a Wonderful Life#
+497,1938,3.84,68,{6},#Bringing Up Baby#
+498,1951,4.18,152,{2,3,15,18},#African Queen, The#
+499,1958,3.95,62,{9},#Cat on a Hot Tin Roof#
+500,1996,3.9,31,{3,5},#Fly Away Home#
+501,1941,3.5,123,{4,5,13},#Dumbo#
+502,1971,3.7,57,{6,18},#Bananas#
+503,1972,3.64,39,{9},#Candidate, The#
+504,1967,3.82,122,{7,9},#Bonnie and Clyde#
+505,1954,4.0,68,{14,17},#Dial M for Murder#
+506,1955,3.86,90,{9},#Rebel Without a Cause#
+507,1951,3.82,98,{9},#Streetcar Named Desire, A#
+508,1996,3.6,215,{9},#People vs. Larry Flynt, The#
+509,1989,3.85,121,{9},#My Left Foot#
+510,1954,3.94,121,{2,9,19},#Magnificent Seven, The#
+511,1962,4.23,173,{3,18},#Lawrence of Arabia#
+512,1987,4.0,57,{6,9,15},#Wings of Desire#
+513,1949,4.33,72,{14,17},#Third Man, The#
+514,1977,3.91,180,{6,15},#Annie Hall#
+515,1997,4.2,201,{2,9,18},#Boot, Das#
+516,1983,3.97,63,{6},#Local Hero#
+517,1979,3.77,91,{6,9,15},#Manhattan#
+518,1990,3.65,89,{9},#Miller's Crossing#
+519,1948,4.1,80,{3},#Treasure of the Sierra Madre, The#
+520,1963,4.1,124,{3,18},#Great Escape, The#
+521,1978,3.83,120,{9,18},#Deer Hunter, The#
+522,1986,3.77,35,{6,9},#Down by Law#
+523,1967,3.99,164,{6,9},#Cool Hand Luke#
+524,1940,4.02,46,{6},#Great Dictator, The#
+525,1946,4.03,73,{11,14},#Big Sleep, The#
+526,1959,3.83,124,{2,3,9},#Ben-Hur#
+527,1982,4.02,195,{9},#Gandhi#
+528,1984,4.13,121,{9,18},#Killing Fields, The#
+529,1985,3.98,93,{9},#My Life as a Dog#
+530,1975,4.03,80,{3},#Man Who Would Be King, The#
+531,1996,3.92,129,{9,15},#Shine#
+532,1997,3.32,22,{15},#Kama Sutra: A Tale of Love#
+533,1997,3.67,15,{14},#Daytrippers, The#
+534,1997,3.31,13,{9},#Traveller#
+535,1997,3.17,54,{6,15},#Addicted to Love#
+536,1997,3.3,10,{9},#Ponette#
+537,1991,3.63,30,{9},#My Own Private Idaho#
+538,1997,3.42,66,{4,5,13},#Anastasia#
+539,1997,2.48,44,{5,6},#Mouse Hunt#
+540,1995,2.51,43,{2},#Money Train#
+541,1995,2.88,49,{2,3},#Mortal Kombat#
+542,1995,2.53,51,{4,5,13,15},#Pocahontas#
+543,1995,3.62,21,{9,13},#Mis�rables, Les#
+544,1996,3.15,71,{7,9,15},#Things to Do in Denver when You're Dead#
+545,1995,1.83,12,{6,15},#Vampire in Brooklyn#
+546,1996,3.03,254,{2,17},#Broken Arrow#
+547,1996,3.34,41,{7},#Young Poisoner's Handbook, The#
+548,1996,2.17,12,{5,10},#NeverEnding Story III, The#
+549,1995,3.57,92,{9,15,18},#Rob Roy#
+550,1995,3.28,151,{2,17},#Die Hard: With a Vengeance#
+551,1995,2.42,24,{12},#Lord of Illusions#
+552,1995,2.87,45,{16},#Species#
+553,1995,3.29,63,{9,15},#Walk in the Clouds, A#
+554,1995,2.8,102,{2,3},#Waterworld#
+555,1995,2.0,10,{9},#White Man's Burden#
+556,1995,2.5,12,{19},#Wild Bill#
+557,1994,3.12,17,{9,13},#Farinelli: il castrato#
+558,1994,3.67,70,{9,10,17},#Heavenly Creatures#
+559,1994,3.18,137,{9,12},#Interview with the Vampire#
+560,1995,2.73,22,{3,5,6,10,15,16},#Kid in King Arthur's Court, A#
+561,1994,3.07,59,{9,12},#Mary Shelley's Frankenstein#
+562,1995,3.21,48,{2,3,19},#Quick and the Dead, The#
+563,1995,2.41,29,{12},#Stephen King's The Langoliers#
+564,1995,2.04,27,{6,12},#Tales from the Hood#
+565,1995,2.68,22,{12,17},#Village of the Damned#
+566,1994,3.57,179,{2,3,17},#Clear and Present Danger#
+567,1994,2.8,35,{12},#Wes Craven's New Nightmare#
+568,1994,3.65,230,{2,15,17},#Speed#
+569,1994,2.7,67,{9,12},#Wolf#
+570,1994,3.1,50,{19},#Wyatt Earp#
+571,1993,2.5,28,{6,17},#Another Stakeout#
+572,1994,2.76,29,{2,17},#Blown Away#
+573,1993,2.94,33,{12,16,17},#Body Snatchers#
+574,1993,2.2,15,{14,15,17},#Boxing Helena#
+575,1994,2.55,44,{6,19},#City Slickers II: The Legend of Curly's Gold#
+576,1993,3.02,93,{2,3,7},#Cliffhanger#
+577,1993,2.22,41,{6,16},#Coneheads#
+578,1993,3.15,92,{2,16},#Demolition Man#
+579,1993,2.63,19,{6},#Fatal Instinct#
+580,1995,3.38,32,{6,15},#Englishman Who Went Up a Hill, But Came Down a Mountain, The#
+581,1993,3.22,59,{9,17},#Kalifornia#
+582,1993,3.6,168,{9,15},#Piano, The#
+583,1993,3.0,37,{7,17},#Romeo Is Bleeding#
+584,1993,3.54,79,{5,9},#Secret Garden, The#
+585,1993,2.49,39,{6},#Son in Law#
+586,1994,2.68,34,{2},#Terminal Velocity#
+587,1993,3.57,14,{9,14},#Hour of the Pig, The#
+588,1991,3.79,202,{4,5,13},#Beauty and the Beast#
+589,1969,4.02,43,{19},#Wild Bunch, The#
+590,1996,2.0,18,{2,12,16},#Hellraiser: Bloodline#
+591,1996,3.6,178,{9,17},#Primal Fear#
+592,1995,3.33,9,{14,17},#True Crime#
+593,1993,3.17,12,{18},#Stalingrad#
+594,1996,2.4,5,{9,15},#Heavy#
+595,1996,3.09,64,{17},#Fan, The#
+596,1996,3.38,127,{4,5,13},#Hunchback of Notre Dame, The#
+597,1996,3.15,206,{2,17},#Eraser#
+598,1996,2.25,4,{6,9},#Big Squeeze, The#
+599,1996,1.0,1,{2},#Police Story 4: Project S#
+600,1996,3.0,2,{5},#Daniel Defoe's Robinson Crusoe#
+601,1943,4.0,20,{3,18},#For Whom the Bell Tolls#
+602,1951,3.7,50,{13,15},#American in Paris, An#
+603,1954,4.39,209,{14,17},#Rear Window#
+604,1934,4.01,81,{6},#It Happened One Night#
+605,1944,3.35,31,{13},#Meet Me in St. Louis#
+606,1950,4.05,66,{9},#All About Eve#
+607,1940,3.97,66,{15,17},#Rebecca#
+608,1945,3.93,30,{14,15,17},#Spellbound#
+609,1950,3.58,60,{6},#Father of the Bride#
+610,1958,3.66,41,{13},#Gigi#
+611,1944,4.1,40,{7,11,14},#Laura#
+612,1937,3.94,34,{9},#Lost Horizon#
+613,1936,4.04,27,{6},#My Man Godfrey#
+614,1956,3.75,51,{9},#Giant#
+615,1935,4.05,59,{17},#39 Steps, The#
+616,1968,3.42,64,{12,16},#Night of the Living Dead#
+617,1930,3.78,18,{9},#Blue Angel, The#
+618,1955,3.61,18,{9},#Picnic#
+619,1996,3.17,64,{9,17},#Extreme Measures#
+620,1996,3.09,43,{9},#Chamber, The#
+621,1955,2.91,11,{19},#Davy Crockett, King of the Wild Frontier#
+622,1960,3.36,39,{3,5},#Swiss Family Robinson#
+623,1994,2.92,39,{5,6},#Angels in the Outfield#
+624,1945,3.27,22,{4,5,13},#Three Caballeros, The#
+625,1963,3.33,82,{4,5},#Sword in the Stone, The#
+626,1949,3.25,4,{5,9},#So Dear to My Heart#
+627,1991,3.23,75,{9},#Robin Hood: Prince of Thieves#
+628,1996,3.51,169,{7,9},#Sleepers#
+629,1982,3.34,77,{6,13},#Victor/Victoria#
+630,1965,3.29,31,{6,13},#Great Race, The#
+631,1992,3.62,119,{2,9,15,18},#Crying Game, The#
+632,1982,3.9,58,{9},#Sophie's Choice#
+633,1938,4.06,69,{9},#Christmas Carol, A#
+634,1996,3.75,24,{8},#Microcosmos: Le peuple de l'herbe#
+635,1980,2.74,23,{12},#Fog, The#
+636,1981,3.24,91,{2,3,16,17},#Escape from New York#
+637,1981,3.03,38,{6,12},#Howling, The#
+638,1982,3.77,44,{9},#Return of Martin Guerre, The#
+639,1979,3.7,40,{9},#Tin Drum, The#
+640,1989,3.02,82,{9},#Cook the Thief His Wife & Her Lover, The#
+641,1957,4.21,33,{9,18},#Paths of Glory#
+642,1990,3.48,89,{7,9,11},#Grifters, The#
+643,1994,3.0,4,{9,15},#The Innocent#
+644,1988,3.77,35,{8},#Thin Blue Line, The#
+645,1990,3.81,27,{8},#Paris Is Burning#
+646,1969,3.87,38,{19},#Once Upon a Time in the West#
+647,1985,4.1,70,{9,18},#Ran#
+648,1952,4.03,67,{6,15},#Quiet Man, The#
+649,1984,3.4,50,{7,9,17},#Once Upon a Time in America#
+650,1957,3.54,72,{9},#Seventh Seal, The#
+651,1989,4.08,171,{2,9,18},#Glory#
+652,1990,3.89,90,{6,9},#Rosencrantz and Guildenstern Are Dead#
+653,1958,3.91,34,{7,11,17},#Touch of Evil#
+654,1974,4.14,147,{11,14,17},#Chinatown#
+655,1986,3.88,227,{3,6,9},#Stand by Me#
+656,1931,4.0,44,{7,11,17},#M#
+657,1962,4.26,131,{11,17},#Manchurian Candidate, The#
+658,1990,3.42,79,{9},#Pump Up the Volume#
+659,1944,4.08,115,{6,14,17},#Arsenic and Old Lace#
+660,1991,3.76,153,{9},#Fried Green Tomatoes#
+661,1952,4.1,88,{19},#High Noon#
+662,1980,3.43,82,{9,15},#Somewhere in Time#
+663,1979,3.91,116,{6},#Being There#
+664,1984,3.54,46,{9},#Paris, Texas#
+665,1992,2.83,100,{2,12,16,17},#Alien 3#
+666,1974,2.4,5,{12},#Blood For Dracula#
+667,1977,2.17,12,{12},#Audrey Rose#
+668,1981,2.17,6,{2,12},#Blood Beach#
+669,1991,1.62,13,{12},#Body Parts#
+670,1993,3.0,36,{12,16,17},#Body Snatchers#
+671,1935,3.61,46,{12},#Bride of Frankenstein#
+672,1992,2.72,65,{12},#Candyman#
+673,1962,3.52,86,{11,17},#Cape Fear#
+674,1982,2.9,48,{12},#Cat People#
+675,1922,3.56,54,{12},#Nosferatu#
+676,1996,3.34,77,{9},#Crucible, The#
+677,1997,3.0,1,{8},#Fire on the Mountain#
+678,1997,2.81,219,{9,17},#Volcano#
+679,1981,3.05,107,{2,3},#Conan the Barbarian#
+680,1997,2.56,34,{2,3},#Kull the Conqueror#
+681,1997,2.44,27,{12},#Wishmaster#
+682,1997,3.06,100,{12,14,17},#I Know What You Did Last Summer#
+683,1997,2.41,49,{6},#Rocket Man#
+684,1993,3.79,169,{2,17},#In the Line of Fire#
+685,1996,3.36,157,{2,17},#Executive Decision#
+686,1993,3.68,50,{2,9},#Perfect World, A#
+687,1997,2.19,69,{6,18},#McHale's Navy#
+688,1997,1.84,44,{6},#Leave It to Beaver#
+689,1997,3.15,87,{2,17},#Jackal, The#
+690,1997,3.46,155,{9,18},#Seven Years in Tibet#
+691,1998,3.5,16,{11,16,17},#Dark City#
+692,1995,3.63,164,{6,9,15},#American President, The#
+693,1995,3.65,91,{9},#Casino#
+694,1995,4.05,44,{15},#Persuasion#
+695,1995,2.92,13,{6,9},#Kicking and Screaming#
+696,1996,3.14,79,{9,17},#City Hall#
+697,1995,3.42,40,{9},#Basketball Diaries, The#
+698,1994,3.0,10,{9},#Browning Version, The#
+699,1994,3.68,102,{9},#Little Women#
+700,1995,2.6,15,{6},#Miami Rhapsody#
+701,1993,4.0,10,{8},#Wonderful, Horrible Life of Leni Riefenstahl, The#
+702,1994,3.02,53,{6,15},#Barcelona#
+703,1994,3.58,19,{9},#Widows' Peak#
+704,1993,3.04,24,{9,15},#House of the Spirits, The#
+705,1952,3.99,137,{13,15},#Singin' in the Rain#
+706,1996,2.67,6,{12},#Bad Moon#
+707,1991,3.93,70,{9},#Enchanted April#
+708,1989,3.48,101,{9},#Sex, Lies, and Videotape#
+709,1992,4.03,104,{6,15},#Strictly Ballroom#
+710,1985,3.57,79,{6},#Better Off Dead...#
+711,1996,4.0,1,{9},#Substance of Fire, The#
+712,1987,3.08,51,{6,9},#Tin Men#
+713,1995,3.61,72,{9},#Othello#
+714,1995,3.23,13,{9,15},#Carrington#
+715,1995,3.28,87,{6,9},#To Die For#
+716,1995,3.16,58,{9,15},#Home for the Holidays#
+717,1996,2.82,82,{9,17},#Juror, The#
+718,1996,3.69,16,{6},#In the Bleak Midwinter#
+719,1994,2.41,29,{6,18},#Canadian Bacon#
+720,1995,3.02,86,{2,3,9,15},#First Knight#
+721,1995,3.44,54,{6},#Mallrats#
+722,1995,2.93,58,{6},#Nine Months#
+723,1995,3.15,34,{6,9},#Boys on the Side#
+724,1995,3.49,76,{9,15},#Circle of Friends#
+725,1994,2.75,16,{6},#Exit to Eden#
+726,1995,2.43,14,{5,9},#Fluke#
+727,1994,3.46,63,{9,15},#Immortal Beloved#
+728,1994,3.02,45,{6,16},#Junior#
+729,1994,3.48,81,{9},#Nell#
+730,1996,3.5,24,{9,15},#Queen Margot#
+731,1994,3.15,39,{6,9,15},#Corrina, Corrina#
+732,1993,3.65,180,{6,15},#Dave#
+733,1994,3.2,15,{9,15},#Go Fish#
+734,1993,2.52,27,{6},#Made in America#
+735,1993,3.85,137,{9},#Philadelphia#
+736,1993,3.94,78,{9,15},#Shadowlands#
+737,1994,2.98,59,{6,9},#Sirens#
+738,1994,2.84,31,{6,15},#Threesome#
+739,1990,3.32,164,{6,15},#Pretty Woman#
+740,1996,3.48,63,{9,15},#Jane Eyre#
+741,1996,3.45,58,{9,17},#Last Supper, The#
+742,1996,3.64,267,{9,17},#Ransom#
+743,1996,1.95,39,{2,17},#Crow: City of Angels, The#
+744,1996,3.46,92,{9,18},#Michael Collins#
+745,1972,3.88,16,{6},#Ruling Class, The#
+746,1985,3.66,119,{6},#Real Genius#
+747,1993,3.46,102,{6,15},#Benny & Joon#
+748,1997,3.12,316,{2,15,17},#Saint, The#
+749,1997,3.18,51,{6,15},#MatchMaker, The#
+750,1997,3.85,124,{9},#Amistad#
+751,1997,3.43,180,{2,15,17},#Tomorrow Never Dies#
+752,1998,3.31,39,{2,17},#Replacement Killers, The#
+753,1994,3.71,24,{9},#Burnt By the Sun#
+754,1997,3.39,57,{7,17},#Red Corner#
+755,1995,3.31,96,{2,3,5,10,16},#Jumanji#
+756,1995,2.9,128,{6},#Father of the Bride Part II#
+757,1995,2.75,4,{8},#Across the Sea of Time#
+758,1996,1.71,21,{16,17},#Lawnmower Man 2: Beyond Cyberspace#
+759,1995,2.18,11,{2},#Fair Game#
+760,1995,2.65,46,{16},#Screamers#
+761,1995,3.05,44,{2,17},#Nick of Time#
+762,1996,3.39,115,{9},#Beautiful Girls#
+763,1996,3.39,149,{6},#Happy Gilmore#
+764,1996,2.76,29,{6,15},#If Lucy Fell#
+765,1992,2.81,32,{6,15},#Boomerang#
+766,1996,3.11,9,{8},#Man of the Year#
+767,1995,2.18,11,{12},#Addiction, The#
+768,1995,3.08,52,{3,5},#Casper#
+769,1995,2.45,42,{2,3,14,16},#Congo#
+770,1995,3.39,57,{7,11,14,17},#Devil in a Blue Dress#
+771,1995,2.63,41,{2,16,17},#Johnny Mnemonic#
+772,1995,3.06,49,{9},#Kids#
+773,1994,2.94,17,{17},#Mute Witness#
+774,1995,2.94,32,{12},#Prophecy, The#
+775,1995,2.77,26,{6,9,15},#Something to Talk About#
+776,1995,3.22,9,{9},#Three Wishes#
+777,1995,1.25,4,{12},#Castle Freak#
+778,1995,3.55,76,{6,9,15},#Don Juan DeMarco#
+779,1994,2.55,31,{2},#Drop Zone#
+780,1994,3.0,69,{6},#Dumb & Dumber#
+781,1995,3.33,84,{6,15},#French Kiss#
+782,1994,2.6,10,{9},#Little Odessa#
+783,1994,2.73,37,{6,15},#Milk Money#
+784,1993,1.0,2,{9,12},#Beyond Bedlam#
+785,1994,3.15,39,{6,15},#Only You#
+786,1995,2.64,14,{6,15},#Perez Family, The#
+787,1995,3.23,13,{6,9},#Roommates#
+788,1994,1.67,3,{12,17},#Relative Fear#
+789,1995,3.57,47,{6,9},#Swimming with Sharks#
+790,1995,2.91,66,{6},#Tommy Boy#
+791,1995,2.5,10,{5},#Baby-Sitters Club, The#
+792,1994,3.72,86,{6},#Bullets Over Broadway#
+793,1994,3.5,10,{6},#Crooklyn#
+794,1994,3.65,46,{9,15},#It Could Happen to You#
+795,1994,2.43,21,{5,6},#Richie Rich#
+796,1994,3.08,36,{6,15},#Speechless#
+797,1994,3.1,31,{2,16},#Timecop#
+798,1995,2.22,9,{2},#Bad Company#
+799,1995,3.2,5,{9},#Boys Life#
+800,1995,2.88,26,{12,17},#In the Mouth of Madness#
+801,1994,2.81,16,{6},#Air Up There, The#
+802,1993,2.7,40,{2,3,7,17},#Hard Target#
+803,1993,2.56,9,{2,9,18},#Heaven & Earth#
+804,1994,2.88,8,{6},#Jimmy Hollywood#
+805,1993,3.63,27,{6,14},#Manhattan Murder Mystery#
+806,1993,3.46,50,{2,7,9},#Menace II Society#
+807,1993,2.78,9,{9},#Poetic Justice#
+808,1993,2.84,31,{2,9},#Program, The#
+809,1993,2.91,43,{2,9,14},#Rising Sun#
+810,1994,2.89,45,{2},#Shadow, The#
+811,1993,3.94,18,{8},#Thirty-Two Short Films About Glenn Gould#
+812,1994,3.11,18,{3,5},#Andre#
+813,1996,3.89,56,{8},#Celluloid Closet, The#
+814,1994,5.0,1,{8},#Great Day in Harlem, A#
+815,1996,3.23,112,{9,15},#One Fine Day#
+816,1995,2.43,21,{12},#Candyman: Farewell to the Flesh#
+817,1996,2.67,3,{9},#Frisk#
+818,1996,2.76,25,{6},#Girl 6#
+819,1996,2.7,40,{6},#Eddie#
+820,1996,2.77,93,{3,4,5,6,10},#Space Jam#
+821,1996,3.05,22,{6,15},#Mrs. Winterbourne#
+822,1968,3.0,4,{9},#Faces#
+823,1996,2.88,82,{7,11,17},#Mulholland Falls#
+824,1996,2.76,49,{6},#Great White Hype, The#
+825,1996,3.04,83,{2,16,17},#Arrival, The#
+826,1996,2.58,80,{3},#Phantom, The#
+827,1996,2.77,57,{2,3,17},#Daylight#
+828,1996,2.69,13,{3,5},#Alaska#
+829,1996,2.65,34,{2,3},#Fled#
+830,1996,1.0,1,{2,14,17},#Power 98#
+831,1996,2.46,91,{2,3,16,17},#Escape from L.A.#
+832,1996,2.55,22,{5,9,10},#Bogus#
+833,1996,3.2,49,{2},#Bulletproof#
+834,1995,2.2,25,{12,17},#Halloween: The Curse of Michael Myers#
+835,1934,3.87,15,{6,13,15},#Gay Divorcee, The#
+836,1939,3.77,26,{6,15},#Ninotchka#
+837,1941,3.92,25,{9},#Meet John Doe#
+838,1996,2.75,4,{2},#In the Line of Duty 2#
+839,1995,2.5,4,{12,17},#Loch Ness#
+840,1996,2.66,53,{2,9,19},#Last Man Standing#
+841,1996,2.75,48,{2,17},#Glimmer Man, The#
+842,1960,3.15,27,{5,6,9},#Pollyanna#
+843,1959,3.0,30,{5,6},#Shaggy Dog, The#
+844,1996,3.36,42,{7},#Freeway#
+845,1996,3.47,176,{6},#That Thing You Do!#
+846,1996,3.07,44,{9,15},#To Gillian on Her 37th Birthday#
+847,1996,3.73,55,{8,9},#Looking for Richard#
+848,1944,3.56,9,{11,17},#Murder, My Sweet#
+849,1990,2.72,53,{2,15},#Days of Thunder#
+850,1996,4.0,4,{8},#Perfect Candidate, A#
+851,1966,3.75,4,{9},#Two or Three Things I Know About Her#
+852,1996,1.0,1,{9,17},#Bloody Child, The#
+853,1992,3.86,14,{6,12},#Braindead#
+854,1987,3.38,16,{6,12},#Bad Taste#
+855,1981,3.73,66,{2,9,14,15,17},#Diva#
+856,1991,3.83,36,{6,9},#Night on Earth#
+857,1996,3.0,1,{8},#Paris Was a Woman#
+858,1996,1.0,3,{12},#Amityville: Dollhouse#
+859,1986,2.67,15,{6,12},#April Fool's Day#
+860,1987,2.25,16,{12,17},#Believers, The#
+861,1986,2.33,3,{12},#Nosferatu a Venezia#
+862,1996,2.11,18,{3,5,6},#Jingle All the Way#
+863,1996,3.92,24,{9},#Garden of Finzi-Contini, The#
+864,1996,3.16,86,{6},#My Fellow Americans#
+865,1997,3.48,21,{9},#Ice Storm, The#
+866,1996,3.32,119,{6,15},#Michael#
+867,1996,4.0,6,{9},#Whole Wide World, The#
+868,1997,3.8,5,{9},#Hearts and Minds#
+869,1997,3.0,24,{6,15},#Fools Rush In#
+870,1997,2.78,9,{15},#Touch#
+871,1997,2.4,75,{6},#Vegas Vacation#
+872,1997,3.1,42,{15},#Love Jones#
+873,1997,2.96,81,{6,15},#Picture Perfect#
+874,1997,3.26,39,{9},#Career Girls#
+875,1997,2.74,53,{9,15},#She's So Lovely#
+876,1997,2.7,47,{2,6},#Money Talks#
+877,1997,2.54,52,{3,15},#Excess Baggage#
+878,1997,2.52,33,{5,6,14},#That Darn Cat!#
+879,1997,3.27,136,{2,17,18},#Peacemaker, The#
+880,1997,3.17,59,{9},#Soul Food#
+881,1997,2.93,45,{2,6},#Money Talks#
+882,1997,3.29,34,{9},#Washington Square#
+883,1997,3.23,13,{9},#Telling Lies in America#
+884,1997,3.29,7,{8},#Year of the Horse#
+885,1998,2.23,13,{12},#Phantoms#
+886,1997,3.08,53,{15,17},#Life Less Ordinary, A#
+887,1997,3.61,64,{9},#Eve's Bayou#
+888,1997,3.47,15,{9},#One Night Stand#
+889,1997,3.38,13,{15},#Tango Lesson, The#
+890,1997,1.95,43,{2,3},#Mortal Kombat: Annihilation#
+891,1997,2.67,6,{9,18},#Bent#
+892,1997,2.75,53,{5,6,10},#Flubber#
+893,1997,2.43,14,{6},#For Richer or Poorer#
+894,1997,1.89,19,{5,6},#Home Alone 3#
+895,1997,3.22,106,{12,17},#Scream 2#
+896,1997,3.77,44,{9},#Sweet Hereafter, The#
+897,1995,1.5,2,{2,3,16},#Time Tracers#
+898,1997,3.22,58,{9},#Postman, The#
+899,1997,3.44,9,{9},#Winter Guest, The#
+900,1997,3.69,42,{9},#Kundun#
+901,1997,1.92,12,{6},#Mr. Magoo#
+902,1997,3.83,42,{6,7,14,17},#Big Lebowski, The#
+903,1997,3.11,18,{9,15},#Afterglow#
+904,1997,3.45,20,{6,9},#Ma vie en rose#
+905,1998,3.22,27,{9,15},#Great Expectations#
+906,1997,3.19,21,{9,15},#Oscar & Lucinda#
+907,1997,2.0,2,{6},#Vermin#
+908,1998,2.5,20,{6},#Half Baked#
+909,1998,3.77,13,{9},#Dangerous Beauty#
+910,1998,2.0,4,{9},#Nil By Mouth#
+911,1998,2.5,4,{7,9},#Twilight#
+912,1998,3.0,9,{2,17},#U.S. Marshalls#
+913,1998,2.5,2,{6},#Love and Death on Long Island#
+914,1998,2.73,11,{7,9,14,17},#Wild Things#
+915,1998,3.92,13,{9},#Primary Colors#
+916,1998,3.17,18,{2,16,17},#Lost in Space#
+917,1998,3.43,7,{2,9,17},#Mercury Rising#
+918,1998,3.0,8,{15},#City of Angels#
+919,1995,3.79,96,{3,16},#City of Lost Children, The#
+920,1995,2.2,5,{9},#Two Bits#
+921,1993,3.98,46,{9,15},#Farewell My Concubine#
+922,1996,3.82,34,{19},#Dead Man#
+923,1991,4.16,58,{9},#Raise the Red Lantern#
+924,1996,3.4,85,{3,9},#White Squall#
+925,1996,3.32,34,{16,17},#Unforgettable#
+926,1996,2.7,101,{6},#Down Periscope#
+927,1996,3.17,6,{9},#Flower of My Secret, The#
+928,1996,3.12,104,{9,12},#Craft, The#
+929,1996,2.7,40,{5,6},#Harriet the Spy#
+930,1996,2.7,80,{2,3,17},#Chain Reaction#
+931,1996,2.16,57,{16,17},#Island of Dr. Moreau, The#
+932,1996,2.92,40,{5,6},#First Kid#
+933,1996,2.43,21,{9},#Funeral, The#
+934,1996,2.93,68,{9},#Preacher's Wife, The#
+935,1997,3.29,7,{9,18},#Paradise Road#
+936,1997,3.94,32,{6,9,15},#Brassed Off#
+937,1997,3.41,37,{9},#Thousand Acres, A#
+938,1997,2.88,25,{6,15},#Smile Like Yours, A#
+939,1995,3.6,60,{9,17},#Murder in the First#
+940,1994,2.34,32,{6},#Airheads#
+941,1994,3.07,46,{6,9},#With Honors#
+942,1993,3.49,45,{9},#What's Love Got to Do with It#
+943,1994,3.48,40,{17},#Killing Zoe#
+944,1994,3.0,43,{6,9,18},#Renaissance Man#
+945,1963,3.92,40,{6,14,15,17},#Charade#
+946,1981,3.15,61,{4,5},#Fox and the Hound, The#
+947,1988,3.24,17,{3,15},#Big Blue, The#
+948,1997,2.17,48,{6,15},#Booty Call#
+949,1995,3.34,71,{9,15},#How to Make an American Quilt#
+950,1995,2.9,30,{9},#Georgia#
+951,1995,2.82,39,{3,5,10},#Indian in the Cupboard, The#
+952,1995,3.18,45,{6},#Blue in the Face#
+953,1995,3.32,22,{6,9},#Unstrung Heroes#
+954,1995,3.55,11,{8},#Unzipped#
+955,1995,3.41,49,{9,15},#Before Sunrise#
+956,1994,3.61,46,{9},#Nobody's Fool#
+957,1992,2.0,2,{6},#Pushing Hands#
+958,1994,3.79,14,{9},#To Live#
+959,1993,3.47,64,{6},#Dazed and Confused#
+960,1993,3.24,25,{9},#Naked#
+961,1993,3.62,34,{9},#Orlando#
+962,1993,3.13,23,{9},#Ruby in Paradise#
+963,1993,4.29,41,{9,17},#Some Folks Call It a Sling Blade#
+964,1995,3.33,9,{6,9},#Month by the Lake, A#
+965,1957,3.67,21,{6,13},#Funny Face#
+966,1957,4.19,26,{15},#Affair to Remember, An#
+967,1936,3.17,12,{9},#Little Lord Fauntleroy#
+968,1949,3.72,18,{13},#Inspector General, The#
+969,1968,3.8,75,{4,5},#Winnie the Pooh and the Blustery Day#
+970,1991,3.25,8,{6},#Hear My Song#
+971,1991,3.68,34,{6,18},#Mediterraneo#
+972,1992,3.18,28,{9},#Passion Fish#
+973,1996,3.5,4,{8},#Grateful Dead#
+974,1996,3.03,32,{9,17},#Eye for an Eye#
+975,1996,3.16,44,{17},#Fear#
+976,1996,1.83,12,{2,16,17},#Solo#
+977,1996,2.69,49,{2},#Substitute, The#
+978,1996,2.52,27,{14,17},#Heaven's Prisoners#
+979,1996,3.2,35,{9,17},#Trigger Effect, The#
+980,1996,3.18,22,{9},#Mother Night#
+981,1996,1.75,8,{9},#Dangerous Ground#
+982,1996,2.8,20,{2,3,17},#Maximum Risk#
+983,1996,2.4,15,{17},#Rich Man's Wife, The#
+984,1997,2.86,44,{17},#Shadow Conspiracy#
+985,1996,2.86,22,{9},#Blood & Wine#
+986,1997,2.57,23,{17},#Turbulence#
+987,1997,2.5,4,{17},#Underworld#
+988,1997,2.31,86,{6,15},#Beautician and the Beast, The#
+989,1997,2.84,32,{4,5,13},#Cats Don't Dance#
+990,1997,3.09,33,{9,15},#Anna Karenina#
+991,1997,2.24,25,{7},#Keys to Tulsa#
+992,1997,3.0,4,{6,17},#Head Above Water#
+993,1997,3.52,66,{3,4,5,6,13},#Hercules#
+994,1997,2.29,7,{9},#Last Time I Committed Suicide, The#
+995,1997,3.16,31,{6},#Kiss Me, Guido#
+996,1995,2.5,14,{5,6},#Big Green, The#
+997,1995,2.12,16,{6},#Stuart Saves His Family#
+998,1994,2.56,16,{6},#Cabin Boy#
+999,1994,2.8,10,{6},#Clean Slate#
+1000,1994,3.0,10,{6,19},#Lightning Jack#
+1001,1996,2.0,17,{6},#Stupids, The#
+1002,1997,1.88,8,{6},#Pest, The#
+1003,1997,2.25,8,{5,6,14},#That Darn Cat!#
+1004,1993,3.11,9,{9,19},#Geronimo: An American Legend#
+1005,1991,3.68,22,{9},#Double vie de V�ronique, La#
+1006,1991,2.83,23,{9,16},#Until the End of the World#
+1007,1997,4.13,47,{6},#Waiting for Guffman#
+1008,1996,3.38,37,{9},#I Shot Andy Warhol#
+1009,1996,3.38,64,{9},#Stealing Beauty#
+1010,1996,3.25,44,{9},#Basquiat#
+1011,1996,3.23,93,{7},#2 Days in the Valley#
+1012,1997,3.53,100,{6,9},#Private Parts#
+1013,1997,2.29,38,{2,3,17},#Anaconda#
+1014,1997,3.06,98,{6},#Romy and Michele's High School Reunion#
+1015,1997,2.83,12,{5,9},#Shiloh#
+1016,1997,3.46,137,{2,3,17},#Con Air#
+1017,1996,3.24,50,{9},#Trees Lounge#
+1018,1990,3.19,32,{9},#Tie Me Up! Tie Me Down!#
+1019,1989,3.97,31,{2,17},#Die xue shuang xiong#
+1020,1944,3.89,35,{14,17},#Gaslight#
+1021,1963,3.82,38,{9},#8 1/2#
+1022,1997,3.44,32,{8},#Fast, Cheap & Out of Control#
+1023,1997,2.58,31,{6},#Fathers' Day#
+1024,1997,3.6,15,{15},#Mrs. Dalloway#
+1025,1997,2.93,44,{2,9,17},#Fire Down Below#
+1026,1997,2.5,4,{6,9},#Lay of the Land, The#
+1027,1995,2.67,3,{2},#Shooter, The#
+1028,1995,3.04,148,{6,15},#Grumpier Old Men#
+1029,1995,2.0,14,{6},#Jury Duty#
+1030,1993,2.25,20,{6},#Beverly Hillbillies, The#
+1031,1994,2.29,7,{3,5},#Lassie#
+1032,1994,2.88,16,{5,6},#Little Big League#
+1033,1996,2.78,32,{3,5},#Homeward Bound II: Lost in San Francisco#
+1034,1996,2.52,27,{2,3},#Quest, The#
+1035,1993,3.16,68,{6},#Cool Runnings#
+1036,1991,2.75,24,{6,10},#Drop Dead Fred#
+1037,1982,2.0,24,{6,13,15},#Grease 2#
+1038,1997,2.82,17,{17},#Switchback#
+1039,1997,4.01,90,{9},#Hamlet#
+1040,1996,2.6,25,{6,15},#Two if by Sea#
+1041,1995,3.19,62,{6,15},#Forget Paris#
+1042,1995,3.14,28,{14,17},#Just Cause#
+1043,1995,3.0,8,{6},#Rent-a-Kid#
+1044,1994,3.23,40,{6,9},#Paper, The#
+1045,1993,3.24,25,{9},#Fearless#
+1046,1993,3.17,46,{17},#Malice#
+1047,1996,2.84,134,{6},#Multiplicity#
+1048,1996,3.01,73,{6,15},#She's the One#
+1049,1996,2.52,25,{6},#House Arrest#
+1050,1947,3.65,43,{9,15},#Ghost and Mrs. Muir, The#
+1051,1996,3.24,41,{6},#Associate, The#
+1052,1995,2.28,25,{6,12},#Dracula: Dead and Loving It#
+1053,1995,3.46,24,{9},#Now and Then#
+1054,1996,2.3,23,{6},#Mr. Wrong#
+1055,1994,3.2,10,{9},#Simple Twist of Fate, A#
+1056,1992,3.2,10,{12},#Cronos#
+1057,1996,2.32,22,{6},#Pallbearer, The#
+1058,1994,3.27,15,{3,9},#War, The#
+1059,1996,2.77,35,{6},#Don't Be a Menace to South Central While Drinking Your Juice in the Hood#
+1060,1996,3.05,39,{3,5},#Adventures of Pinocchio, The#
+1061,1996,2.93,29,{6,9},#Evening Star, The#
+1062,1998,3.75,12,{9},#Four Days in September#
+1063,1995,3.66,41,{5,9},#Little Princess, A#
+1064,1947,4.25,4,{7,11},#Crossfire#
+1065,1983,3.49,53,{8,18},#Koyaanisqatsi#
+1066,1995,3.0,16,{4,5},#Balto#
+1067,1996,3.45,44,{6},#Bottle Rocket#
+1068,1996,3.17,12,{9},#Star Maker, The#
+1069,1994,3.17,18,{7,9,17},#Amateur#
+1070,1995,3.74,27,{6},#Living in Oblivion#
+1071,1995,2.88,16,{6},#Party Girl#
+1072,1995,2.43,7,{6,15},#Pyromaniac's Love Story, A#
+1073,1994,3.82,66,{17},#Shallow Grave#
+1074,1994,2.96,77,{6,9},#Reality Bites#
+1075,1994,3.43,7,{9},#Man of No Importance, A#
+1076,1994,2.25,12,{2,3,4,5,10},#Pagemaster, The#
+1077,1994,3.12,8,{17},#Love and a .45#
+1078,1988,2.77,22,{4,5},#Oliver & Company#
+1079,1996,2.24,45,{6,13},#Joe's Apartment#
+1080,1996,4.0,2,{6},#Celestial Clockwork#
+1081,1996,2.75,8,{7},#Curdled#
+1082,1997,2.62,8,{9},#Female Perversions#
+1083,1997,2.5,6,{7,17},#Albino Alligator#
+1084,1996,3.86,21,{8},#Anne Frank Remembered#
+1085,1996,3.0,11,{9,15},#Carried Away#
+1086,1996,3.29,21,{9},#It's My Party#
+1087,1996,1.7,10,{2},#Bloodsport 2#
+1088,1997,2.23,13,{2},#Double Team#
+1089,1997,2.13,38,{2,15,17},#Speed 2: Cruise Control#
+1090,1993,2.41,37,{17},#Sliver#
+1091,1977,2.72,43,{3,4,5,13},#Pete's Dragon#
+1092,1996,2.5,12,{6},#Dear God#
+1093,1996,3.09,23,{6},#Live Nude Girls#
+1094,1996,2.42,12,{6},#Thin Line Between Love and Hate, A#
+1095,1996,2.62,29,{6},#High School High#
+1096,1997,2.67,3,{15},#Commandments#
+1097,1996,3.5,18,{9},#Hate#
+1098,1996,3.69,42,{6},#Flirting With Disaster#
+1099,1994,3.46,13,{9},#Red Firecracker, Green Firecracker#
+1100,1994,2.62,8,{6,9,15},#What Happened Was...#
+1101,1993,3.77,74,{9,14},#Six Degrees of Separation#
+1102,1996,2.43,7,{6,15},#Two Much#
+1103,1990,3.79,19,{6,9},#Trust#
+1104,1992,3.0,4,{6,7,9},#C'est arriv� pr�s de chez vous#
+1105,1998,2.83,18,{2,3,17},#Firestorm#
+1106,1998,3.0,4,{7,9},#Newton Boys, The#
+1107,1995,3.06,18,{9},#Beyond Rangoon#
+1108,1995,2.4,5,{9},#Feast of July#
+1109,1994,3.43,28,{9,17},#Death and the Maiden#
+1110,1995,2.85,41,{2,6,13,16},#Tank Girl#
+1111,1996,3.43,7,{9},#Double Happiness#
+1112,1994,2.8,15,{9},#Cobb#
+1113,1994,3.27,22,{9},#Mrs. Parker and the Vicious Circle#
+1114,1996,3.3,10,{6},#Faithful#
+1115,1996,3.41,29,{6,9,15},#Twelfth Night#
+1116,1940,3.62,13,{3},#Mark of Zorro, The#
+1117,1996,3.11,19,{9},#Surviving Picasso#
+1118,1978,3.26,47,{6},#Up in Smoke#
+1119,1987,3.66,59,{9,15},#Some Kind of Wonderful#
+1120,1996,3.0,17,{6},#I'm Not Rappaport#
+1121,1996,3.76,21,{9,13},#Umbrellas of Cherbourg, The#
+1122,1939,5.0,1,{7,9},#They Made Me a Criminal#
+1123,1954,3.67,3,{9},#Last Time I Saw Paris, The#
+1124,1932,3.83,12,{15,18},#Farewell to Arms, A#
+1125,1961,4.25,4,{17},#Innocents, The#
+1126,1958,3.34,32,{3,9},#Old Man and the Sea, The#
+1127,1998,2.91,11,{9},#Truman Show, The#
+1128,1996,2.69,13,{8},#Heidi Fleiss: Hollywood Madam#
+1129,1996,3.57,28,{9,14,15},#Chungking Express#
+1130,1996,4.0,1,{8},#Jupiter's Wife#
+1131,1995,4.0,13,{17},#Safe#
+1132,1996,2.62,32,{9,15},#Feeling Minnesota#
+1133,1975,2.97,30,{3,5,10},#Escape to Witch Mountain#
+1134,1996,3.32,38,{9},#Get on the Bus#
+1135,1991,2.98,46,{9,13},#Doors, The#
+1136,1996,3.48,29,{9},#Ghosts of Mississippi#
+1137,1996,3.97,29,{9,15},#Beautiful Thing#
+1138,1997,3.4,5,{2,6,7,9},#Best Men#
+1139,1995,2.61,33,{2,7,17},#Hackers#
+1140,1994,2.29,17,{6},#Road to Wellville, The#
+1141,1993,3.33,9,{8},#War Room, The#
+1142,1997,4.05,44,{8},#When We Were Kings#
+1143,1997,4.0,15,{7,17},#Hard Eight#
+1144,1997,3.67,3,{9},#Quiet Room, The#
+1145,1994,2.67,9,{9},#Blue Chips#
+1146,1993,2.0,3,{9},#Calendar Girl#
+1147,1995,3.67,21,{9},#My Family#
+1148,1994,3.33,9,{9},#Tom & Viv#
+1149,1971,3.85,26,{9},#Walkabout#
+1150,1996,3.11,9,{9},#Last Dance#
+1151,1996,2.14,7,{7},#Original Gangstas#
+1152,1997,3.43,28,{15,18},#In Love and War#
+1153,1993,3.47,19,{9,13},#Backbeat#
+1154,1965,3.33,12,{16},#Alphaville#
+1155,1996,3.33,3,{6,15},#Rendezvous in Paris#
+1156,1996,3.0,1,{7,9},#Cyclo#
+1157,1997,2.88,25,{12},#Relic, The#
+1158,1996,4.0,4,{9},#Fille seule, La#
+1159,1979,3.55,11,{14,16},#Stalker#
+1160,1997,3.62,26,{9,15},#Love! Valour! Compassion!#
+1161,1996,2.92,13,{2,9},#Palookaville#
+1162,1996,1.6,5,{6},#Phat Beach#
+1163,1996,2.68,25,{9},#Portrait of a Lady, The#
+1164,1997,2.17,6,{5},#Zeus and Roxanne#
+1165,1996,1.86,14,{6,9},#Big Bully#
+1166,1993,3.17,12,{6},#Love & Human Remains#
+1167,1994,3.55,11,{6},#Sum of Us, The#
+1168,1993,3.32,22,{9},#Little Buddha#
+1169,1994,4.1,10,{9},#Fresh#
+1170,1994,3.07,27,{6,9},#Spanking the Monkey#
+1171,1994,3.14,14,{9},#Wild Reeds#
+1172,1939,3.67,15,{6},#Women, The#
+1173,1997,2.57,7,{9,15},#Bliss#
+1174,1996,3.25,8,{9,17},#Caught#
+1175,1997,3.4,5,{15},#Hugo Pool#
+1176,1997,3.36,22,{9,18},#Welcome To Sarajevo#
+1177,1996,1.86,7,{6},#Dunston Checks In#
+1178,1994,2.47,19,{6},#Major Payne#
+1179,1995,2.11,9,{6},#Man of the House#
+1180,1994,2.5,10,{2,6},#I Love Trouble#
+1181,1994,2.5,10,{2,6},#Low Down Dirty Shame, A#
+1182,1994,2.31,13,{6},#Cops and Robbersons#
+1183,1994,2.21,19,{2,6},#Cowboy Way, The#
+1184,1994,2.5,10,{8},#Endless Summer 2, The#
+1185,1994,2.28,18,{6,18},#In the Army Now#
+1186,1994,3.33,3,{6,9},#Inkwell, The#
+1187,1975,3.23,13,{7},#Switchblade Sisters#
+1188,1990,2.77,44,{2,6,19},#Young Guns II#
+1189,1997,5.0,3,{9},#Prefontaine#
+1190,1997,3.36,11,{6,15},#That Old Feeling#
+1191,1998,4.33,3,{7,9},#Letter From Death Row, A#
+1192,1993,3.38,13,{9},#Boys of St. Vincent, The#
+1193,1994,3.8,10,{9},#Before the Rain#
+1194,1994,4.06,31,{7,9},#Once Were Warriors#
+1195,1993,3.27,11,{9},#Strawberry and Chocolate#
+1196,1992,3.0,3,{9},#Savage Nights#
+1197,1996,3.56,45,{6,9},#Family Thing, A#
+1198,1960,3.14,7,{7,17},#Purple Noon#
+1199,1996,2.87,23,{6,12},#Cemetery Man#
+1200,1950,3.29,7,{5,9},#Kim#
+1201,1996,5.0,1,{8},#Marlene Dietrich: Shadow and Light#
+1202,1996,3.5,8,{6},#Maybe, Maybe Not#
+1203,1935,4.05,21,{6,13,15},#Top Hat#
+1204,1942,3.61,18,{6,9,18},#To Be or Not to Be#
+1205,1996,3.0,6,{9},#Secret Agent, The#
+1206,1993,2.68,19,{6},#Amos & Andrew#
+1207,1995,2.29,17,{17},#Jade#
+1208,1995,2.85,20,{7,9,17},#Kiss of Death#
+1209,1994,2.53,15,{6},#Mixed Nuts#
+1210,1995,2.74,38,{16,17},#Virtuosity#
+1211,1994,3.42,12,{9,15},#Blue Sky#
+1212,1993,2.83,6,{9,14,15},#Flesh and Bone#
+1213,1993,2.17,6,{7,9,17},#Guilty as Sin#
+1214,1976,2.0,9,{9},#In the Realm of the Senses#
+1215,1996,1.93,30,{2,16},#Barb Wire#
+1216,1997,3.0,6,{15},#Kissed#
+1217,1995,2.87,39,{17},#Assassins#
+1218,1995,3.46,26,{6},#Friday#
+1219,1995,2.9,20,{4,5,6,15},#Goofy Movie, A#
+1220,1995,3.33,30,{9},#Higher Learning#
+1221,1994,3.49,39,{9},#When a Man Loves a Woman#
+1222,1993,2.68,25,{2},#Judgment Night#
+1223,1993,3.5,4,{9},#King of the Hill#
+1224,1994,2.67,12,{9},#Scout, The#
+1225,1995,2.64,14,{6},#Angus#
+1226,1997,3.38,32,{7,9},#Night Falls on Manhattan#
+1227,1995,2.38,8,{9},#Awfully Big Adventure, An#
+1228,1995,2.46,48,{2},#Under Siege 2: Dark Territory#
+1229,1995,2.15,13,{9,17},#Poison Ivy II#
+1230,1994,1.83,18,{6},#Ready to Wear#
+1231,1990,2.5,22,{2,9},#Marked for Death#
+1232,1991,2.47,17,{8},#Madonna: Truth or Dare#
+1233,1996,3.5,6,{9},#N�nette et Boni#
+1234,1998,2.38,8,{6},#Chairman of the Board#
+1235,1994,4.0,1,{7},#Big Bang Theory, The#
+1236,1997,3.0,1,{9},#Other Voices, Other Rooms#
+1237,1996,3.5,6,{6,9},#Twisted#
+1238,1996,3.12,8,{9},#Full Speed#
+1239,1995,2.44,18,{2,3,15},#Cutthroat Island#
+1240,1996,3.65,26,{4,16},#Ghost in the Shell#
+1241,1997,2.67,6,{6,9},#Van, The#
+1242,1991,2.6,5,{6},#Old Lady Who Walked in the Sea, The#
+1243,1998,3.71,7,{12},#Night Flier#
+1244,1997,2.92,36,{2},#Metro#
+1245,1997,3.21,19,{7},#Gridlock'd#
+1246,1995,1.57,7,{6},#Bushwhacked#
+1247,1994,1.83,6,{19},#Bad Girls#
+1248,1994,3.0,19,{17},#Blink#
+1249,1993,2.83,12,{6},#For Love or Money#
+1250,1995,1.5,6,{2},#Best of the Best 3: No Turning Back#
+1251,1997,4.12,8,{6},#A Chef in Love#
+1252,1997,3.0,9,{9},#Contempt#
+1253,1995,2.43,7,{17},#Tie That Binds, The#
+1254,1997,1.82,11,{6},#Gone Fishin'#
+1255,1997,2.25,8,{9},#Broken English#
+1256,1997,2.0,3,{9},#Designated Mourner, The#
+1257,1997,1.75,4,{9},#Designated Mourner, The#
+1258,1997,2.52,23,{6,15},#Trial and Error#
+1259,1996,2.0,4,{6,15},#Pie in the Sky#
+1260,1995,2.75,4,{9},#Total Eclipse#
+1261,1995,3.25,4,{9},#Run of the Country, The#
+1262,1996,3.62,8,{15},#Walking and Talking#
+1263,1996,2.93,15,{9},#Foxfire#
+1264,1996,3.29,7,{9},#Nothing to Lose#
+1265,1997,3.05,19,{9},#Star Maps#
+1266,1973,3.17,12,{9},#Bread and Chocolate#
+1267,1995,3.0,33,{9},#Clockers#
+1268,1992,3.3,10,{9},#Bitter Moon#
+1269,1957,3.9,10,{6,15},#Love in the Afternoon#
+1270,1993,2.29,7,{6},#Life with Mikey#
+1271,1994,2.71,7,{6},#North#
+1272,1994,1.8,5,{6,9},#Talking About Sex#
+1273,1994,2.73,15,{9,17},#Color of Night#
+1274,1993,1.73,11,{16,17},#Robocop 3#
+1275,1994,2.5,4,{17},#Killer#
+1276,1996,2.5,8,{9},#Sunset Park#
+1277,1996,3.42,19,{2,7},#Set It Off#
+1278,1997,3.62,16,{9,13},#Selena#
+1279,1997,2.89,9,{3,5},#Wild America#
+1280,1997,2.69,16,{7},#Gang Related#
+1281,1996,3.15,13,{9},#Manny & Lo#
+1282,1996,3.22,9,{9},#Grass Harp, The#
+1283,1997,2.68,19,{6},#Out to Sea#
+1284,1996,2.85,26,{9,14},#Before and After#
+1285,1994,3.13,15,{9},#Princess Caraboo#
+1286,1937,3.71,17,{6,13,15},#Shall We Dance?#
+1287,1996,1.33,6,{6},#Ed#
+1288,1996,3.0,7,{6},#Denise Calls Up#
+1289,1996,2.14,7,{15},#Jack and Sarah#
+1290,1994,1.5,2,{9,15},#Country Life#
+1291,1996,2.2,15,{6},#Celtic Pride#
+1292,1997,1.67,3,{5,10},#Simple Wish, A#
+1293,1998,5.0,3,{3,5,10,16},#Star Kid#
+1294,1998,3.14,7,{8},#Ayn Rand: A Sense of Life#
+1295,1997,2.57,7,{6,9},#Kicked in the Head#
+1296,1996,3.25,20,{6,9},#Indian Summer#
+1297,1994,2.83,12,{9,15},#Love Affair#
+1298,1953,3.67,9,{6,13},#Band Wagon, The#
+1299,1941,3.0,8,{9,15},#Penny Serenade#
+1300,1997,2.33,9,{9,15},#'Til There Was You#
+1301,1981,3.8,5,{6},#Stripes#
+1302,1997,3.4,5,{6},#Late Bloomers#
+1303,1994,2.33,18,{2},#Getaway, The#
+1304,1996,2.5,2,{2,7},#New York Cop#
+1305,1995,2.43,7,{6},#National Lampoon's Senior Trip#
+1306,1994,3.0,2,{9},#Delta of Venus#
+1307,1994,1.5,2,{8},#Carmen Miranda: Bananas Is My Business#
+1308,1994,1.0,2,{6,9},#Babyfever#
+1309,1974,1.0,1,{9},#Very Natural Thing, A#
+1310,1945,3.0,1,{9},#Walk in the Sun, A#
+1311,1996,2.5,16,{6,9},#Waiting to Exhale#
+1312,1996,3.0,7,{6,9},#Pompatus of Love, The#
+1313,1998,3.14,14,{11,14,17},#Palmetto#
+1314,1994,2.45,11,{2,3,17},#Surviving the Game#
+1315,1997,3.13,23,{9,15},#Inventing the Abbotts#
+1316,1997,2.71,7,{9},#Horse Whisperer, The#
+1317,1996,2.0,4,{9},#Journey of August King, The#
+1318,1996,1.33,3,{8},#Catwalk#
+1319,1996,1.75,4,{9},#Neon Bible, The#
+1320,1996,1.0,1,{9},#Homage#
+1321,1996,2.5,2,{6},#Open Season#
+1322,1993,2.33,6,{6},#Metisse#
+1323,1994,2.67,3,{9},#Wooden Man's Bride, The#
+1324,1996,2.4,5,{9,17},#Loaded#
+1325,1996,1.0,1,{9},#August#
+1326,1996,3.33,6,{9},#Boys#
+1327,1994,2.33,3,{9},#Captives#
+1328,1996,3.17,6,{9},#Of Love and Shadows#
+1329,1996,1.0,1,{9},#Low Life, The#
+1330,1994,2.5,4,{9},#An Unforgettable Summer#
+1331,1995,3.0,4,{8},#Last Klezmer: Leopold Kozlowski, His Life and Music, The#
+1332,1993,2.0,2,{9},#My Life and Times With Antonin Artaud#
+1333,1994,2.8,5,{6,9},#Midnight Dancers#
+1334,1996,1.0,2,{9},#Somebody to Love#
+1335,1996,2.64,11,{9},#American Buffalo#
+1336,1996,1.8,10,{5,6,10},#Kazaam#
+1337,1996,2.33,9,{6},#Larger Than Life#
+1338,1996,2.25,4,{9},#Two Deaths#
+1339,1993,1.0,1,{6,9},#Stefano Quantestorie#
+1340,1995,1.0,1,{15},#Crude Oasis, The#
+1341,1992,1.0,1,{9},#Hedd Wyn#
+1342,1996,2.5,2,{9},#Convent, The#
+1343,1995,1.0,1,{9},#Lotto Land#
+1344,1993,3.2,5,{9},#Story of Xinghua, The#
+1345,1994,2.0,2,{9},#Day the Sun Turned Cold, The#
+1346,1992,2.4,5,{9},#Dingo#
+1347,1958,2.75,4,{9},#Ballad of Narayama, The#
+1348,1990,1.0,1,{9},#Every Other Weekend#
+1349,1993,1.0,1,{6},#Mille bolle blu#
+1350,1949,1.5,2,{9},#Crows and Sparrows#
+1351,1996,2.0,3,{6},#Lover's Knot#
+1352,1976,1.0,1,{9},#Shadow of Angels#
+1353,1994,2.6,5,{15},#1-900#
+1354,1992,1.0,2,{9},#Venice/Venice#
+1355,1996,2.67,6,{9},#Infinity#
+1356,1996,2.67,3,{6},#Ed's Next Move#
+1357,1994,2.67,3,{15,18},#For the Moment#
+1358,1996,3.0,2,{2},#The Deadly Cure#
+1359,1996,1.0,2,{9},#Boys in Venice#
+1360,1994,1.5,2,{6},#Sexual Life of the Belgians, The#
+1361,1996,2.67,3,{6},#Search for One-eye Jimmy, The#
+1362,1996,2.0,2,{2},#American Strays#
+1363,1996,1.0,1,{8},#Leopard Son, The#
+1364,1996,1.0,1,{2},#Bird of Prey#
+1365,1993,1.5,2,{2,9},#Johnny 100 Pesos#
+1366,1994,1.0,1,{8,9},#JLG/JLG - autoportrait de d�cembre#
+1367,1994,4.2,5,{4},#Faust#
+1368,1994,3.67,6,{9},#Mina Tannenbaum#
+1369,1950,2.75,4,{9},#Forbidden Christ, The#
+1370,1994,2.67,3,{9,17},#I Can't Sleep#
+1371,1994,1.5,2,{6,12},#Machine, The#
+1372,1994,3.0,3,{2},#Stranger, The#
+1373,1971,1.0,1,{1},#Good Morning#
+1374,1980,1.0,2,{6},#Falling in Love Again#
+1375,1993,3.6,10,{9},#Cement Garden, The#
+1376,1997,2.14,7,{6},#Meet Wally Sparks#
+1377,1997,3.25,4,{6,15},#Hotel de Love#
+1378,1997,2.2,5,{8},#Rhyme & Reason#
+1379,1997,2.86,7,{15},#Love and Other Catastrophes#
+1380,1997,2.33,6,{9},#Hollow Reed#
+1381,1996,3.25,8,{9},#Losing Chase#
+1382,1997,2.0,4,{9},#Bonheur, Le#
+1383,1997,2.0,6,{3,5},#Second Jungle Book: Mowgli & Baloo, The#
+1384,1997,1.67,3,{9},#Squeeze#
+1385,1997,2.8,5,{6,15},#Roseanna's Grave#
+1386,1997,2.67,6,{16},#Tetsuo II: Body Hammer#
+1387,1997,2.0,3,{15},#Fall#
+1388,1997,3.33,6,{9},#Gabbeh#
+1389,1997,3.0,3,{9},#Mondo#
+1390,1997,2.0,2,{7},#Innocent Sleep, The#
+1391,1997,2.0,3,{9},#For Ever Mozart#
+1392,1997,2.0,5,{9},#Locusts, The#
+1393,1997,2.11,9,{2,17},#Stag#
+1394,1997,2.43,7,{15},#Swept from the Sea#
+1395,1998,2.33,6,{9},#Hurricane Streets#
+1396,1996,4.2,5,{9},#Stonewall#
+1397,1934,3.2,5,{9},#Of Human Bondage#
+1398,1996,4.5,2,{9},#Anna#
+1399,1997,2.43,7,{17},#Stranger in the House#
+1400,1995,3.1,10,{9,15},#Picture Bride#
+1401,1993,3.22,18,{9},#M. Butterfly#
+1402,1993,2.75,4,{9},#Ciao, Professore!#
+1403,1994,2.75,4,{6,9},#Caro Diario#
+1404,1987,3.23,13,{6},#Withnail and I#
+1405,1997,3.33,6,{9},#Boy's Life 2#
+1406,1995,3.4,5,{9,15},#When Night Is Falling#
+1407,1994,2.25,20,{2},#Specialist, The#
+1408,1995,1.0,3,{6},#Gordy#
+1409,1994,2.86,7,{4,5},#Swan Princess, The#
+1410,1993,2.75,4,{9},#Harlem#
+1411,1968,2.57,28,{3,16},#Barbarella#
+1412,1995,1.67,6,{4,5},#Land Before Time III: The Time of the Great Giving#
+1413,1994,2.75,8,{2},#Street Fighter#
+1414,1995,2.0,1,{2},#Coldblooded#
+1415,1994,2.44,9,{2,5},#Next Karate Kid, The#
+1416,1994,2.4,5,{2,16},#No Escape#
+1417,1997,2.5,2,{9},#Turning, The#
+1418,1993,3.67,3,{9},#Joy Luck Club, The#
+1419,1994,2.12,16,{2,16},#Highlander III: The Sorcerer#
+1420,1997,1.33,3,{6},#Gilligan's Island: The Movie#
+1421,1993,3.18,11,{9},#My Crazy Life#
+1422,1993,2.25,4,{11,17},#Suture#
+1423,1995,2.25,4,{9,18},#Walking Dead, The#
+1424,1994,2.33,3,{6,9,15},#I Like It Like That#
+1425,1994,2.6,10,{6,9},#I'll Do Anything#
+1426,1996,3.25,8,{6,9},#Grace of My Heart#
+1427,1996,2.8,5,{9},#Drunks#
+1428,1997,3.67,12,{6},#SubUrbia#
+1429,1998,2.75,4,{9,15},#Sliding Doors#
+1430,1997,2.33,3,{9},#Ill Gotten Gains#
+1431,1997,3.4,5,{17},#Legal Deceit#
+1432,1998,1.0,3,{9},#Mighty, The#
+1433,1997,2.0,2,{2,9},#Men of Means#
+1434,1998,2.5,10,{15},#Shooting Fish#
+1435,1995,2.57,7,{6},#Steal Big, Steal Little#
+1436,1993,2.5,2,{9,15},#Mr. Jones#
+1437,1994,2.0,9,{6},#House Party 3#
+1438,1995,2.4,5,{9},#Panther#
+1439,1994,3.0,8,{7,9},#Jason's Lyric#
+1440,1994,3.0,5,{9},#Above the Rim#
+1441,1995,2.57,7,{9,15},#Moonlight and Valentino#
+1442,1995,2.4,5,{9},#Scarlet Letter, The#
+1443,1994,3.75,4,{9},#8 Seconds#
+1444,1965,2.47,19,{5,6,14},#That Darn Cat!#
+1445,1994,2.75,4,{9},#Ladybird Ladybird#
+1446,1995,3.13,15,{6},#Bye Bye, Love#
+1447,1993,3.0,1,{9},#Century#
+1448,1996,3.67,3,{9},#My Favorite Season#
+1449,1996,4.62,8,{9},#Pather Panchali#
+1450,1947,4.0,2,{3,15},#Golden Earrings#
+1451,1940,3.87,15,{17},#Foreign Correspondent#
+1452,1943,4.0,1,{6,14},#Lady of Burlesque#
+1453,1946,2.0,1,{7,9},#Angel on My Shoulder#
+1454,1947,3.0,6,{19},#Angel and the Badman#
+1455,1943,2.5,2,{19},#Outlaw, The#
+1456,1954,3.71,7,{6,9},#Beat the Devil#
+1457,1996,3.0,1,{6,9},#Love Is All There Is#
+1458,1937,4.0,1,{6,13,15},#Damsel in Distress, A#
+1459,1996,3.57,7,{13},#Madame Butterfly#
+1460,1996,3.0,1,{6,9},#Sleepover#
+1461,1935,2.0,1,{6},#Here Comes Cookie#
+1462,1996,3.71,7,{7,9,15},#Thieves#
+1463,1997,3.33,3,{6},#Boys, Les#
+1464,1995,2.33,3,{9},#Stars Fell on Henrietta, The#
+1465,1995,2.33,3,{6,9},#Last Summer in the Hamptons#
+1466,1995,4.0,6,{9},#Margaret's Museum#
+1467,1993,5.0,2,{9},#Saint of Fort Washington, The#
+1468,1995,3.33,6,{9},#Cure, The#
+1469,1995,3.17,12,{3,5},#Tom and Huck#
+1470,1995,2.6,5,{4,5},#Gumby: The Movie#
+1471,1995,2.44,9,{17},#Hideaway#
+1472,1996,3.5,2,{6,16},#Visitors, The#
+1473,1939,3.56,9,{5,9},#Little Princess, The#
+1474,1994,2.83,6,{6,15},#Nina Takes a Lover#
+1475,1993,2.88,8,{6,9},#Bhaji on the Beach#
+1476,1948,2.0,1,{11},#Raw Deal#
+1477,1997,2.5,2,{12,17},#Nightwatch#
+1478,1995,2.72,18,{2,7,9},#Dead Presidents#
+1479,1995,2.75,8,{6},#Reckless#
+1480,1974,2.27,11,{3,5,6},#Herbie Rides Again#
+1481,1994,3.0,2,{9},#S.F.W.#
+1482,1996,4.0,1,{8},#Gate of Heavenly Peace, The#
+1483,1998,3.42,12,{2,9,15},#Man in the Iron Mask, The#
+1484,1994,2.67,3,{2,6},#Jerky Boys, The#
+1485,1994,3.5,4,{9,15,18},#Colonel Chabert, Le#
+1486,1995,1.0,1,{9},#Girl in the Cadillac#
+1487,1993,2.0,5,{6,15},#Even Cowgirls Get the Blues#
+1488,1993,3.0,4,{9},#Germinal#
+1489,1994,2.2,5,{6},#Chasers#
+1490,1993,3.0,3,{6},#Fausto#
+1491,1995,3.0,2,{2,9,17},#Tough and Deadly#
+1492,1994,4.0,1,{6},#Window to Paris#
+1493,1996,1.0,1,{15},#Modern Affair, A#
+1494,1996,1.0,1,{6},#Mostro, Il#
+1495,1996,3.6,5,{9},#Flirt#
+1496,1996,2.8,5,{6,7},#Carpool#
+1497,1996,3.0,2,{8},#Line King: Al Hirschfeld, The#
+1498,1997,4.0,1,{6},#Farmer & Chase#
+1499,1994,3.25,4,{6},#Grosse Fatigue#
+1500,1996,5.0,2,{6},#Santa with Muscles#
+1501,1997,3.0,5,{18},#Prisoner of the Mountains#
+1502,1994,1.5,2,{6,15},#Naked in New York#
+1503,1995,3.1,10,{3,5},#Gold Diggers: The Secret of Bear Mountain#
+1504,1996,3.67,3,{6},#Bewegte Mann, Der#
+1505,1996,4.0,1,{7,9},#Killer: A Journal of Murder#
+1506,1996,3.67,3,{9},#Nelly & Monsieur Arnaud#
+1507,1996,3.0,1,{6},#Three Lives and Only One Death#
+1508,1995,2.33,3,{9,17},#Babysitter, The#
+1509,1994,1.6,5,{6},#Getting Even with Dad#
+1510,1996,3.0,1,{7},#Mad Dog Time#
+1511,1997,3.2,5,{6},#Children of the Revolution#
+1512,1996,4.0,6,{9},#World of Apu, The#
+1513,1997,2.0,3,{6},#Sprung#
+1514,1997,3.14,7,{9},#Dream With the Fishes#
+1515,1995,4.0,1,{3,15},#Wings of Courage#
+1516,1994,4.0,3,{9},#Wedding Gift, The#
+1517,1996,2.8,5,{9},#Race the Sun#
+1518,1995,3.0,12,{9},#Losing Isaiah#
+1519,1995,3.0,2,{7,9},#New Jersey Drive#
+1520,1995,3.0,1,{12},#Fear, The#
+1521,1993,3.0,4,{6,15},#Mr. Wonderful#
+1522,1994,2.43,7,{17},#Trial by Jury#
+1523,1994,3.0,2,{2,3},#Good Man in Africa, A#
+1524,1996,4.25,8,{9},#Kaspar Hauser#
+1525,1998,4.0,1,{6,15},#Object of My Affection, The#
+1526,1985,4.0,1,{9,15,17},#Witness#
+1527,1998,2.43,7,{6},#Senseless#
+1528,1997,2.33,3,{9},#Nowhere#
+1529,1996,2.8,5,{18},#Underground#
+1530,1995,2.0,5,{9},#Jefferson in Paris#
+1531,1995,3.29,7,{3,5},#Far From Home: The Adventures of Yellow Dog#
+1532,1994,2.0,2,{9},#Foreign Student#
+1533,1993,4.0,1,{9},#I Don't Want to Talk About It#
+1534,1997,2.17,6,{6,7},#Twin Town#
+1535,1994,3.0,4,{9},#Enfer, L'#
+1536,1996,5.0,1,{9},#Aiqing wansui#
+1537,1997,4.0,4,{6},#Cosi#
+1538,1997,3.0,3,{9},#All Over Me#
+1539,1993,1.75,4,{9},#Being Human#
+1540,1995,2.8,10,{3,5},#Amazing Panda Adventure, The#
+1541,1994,3.5,2,{9},#Beans of Egypt, Maine, The#
+1542,1926,3.0,2,{9},#Scarlet Letter, The#
+1543,1996,3.0,1,{9},#Johns#
+1544,1995,2.67,3,{6},#It Takes Two#
+1545,1995,2.5,4,{9,15},#Frankie Starlight#
+1546,1988,1.0,1,{9},#Shadows#
+1547,1995,3.0,2,{8},#Show, The#
+1548,1995,1.0,1,{2,17},#The Courtyard#
+1549,1995,1.5,2,{17},#Dream Man#
+1550,1995,3.0,2,{6},#Destiny Turns on the Radio#
+1551,1994,2.0,2,{9},#Glass Shield, The#
+1552,1995,2.0,3,{2},#Hunted, The#
+1553,1995,2.75,4,{14,17},#Underneath, The#
+1554,1994,3.0,2,{9},#Safe Passage#
+1555,1993,2.6,5,{3,5},#Secret Adventures of Tom Thumb, The#
+1556,1995,2.0,2,{2,9,17},#Condition Red#
+1557,1996,1.0,1,{6,9},#Yankee Zulu#
+1558,1996,3.57,7,{9},#Aparajito#
+1559,1994,1.0,1,{2,9,17},#Hostile Intentions#
+1560,1981,2.75,4,{7},#Clean Slate#
+1561,1994,1.0,1,{8,9},#Tigrero: A Film That Was Never Made#
+1562,1993,1.0,1,{8},#Eye of Vichy, The#
+1563,1994,1.0,1,{15},#Promise, The#
+1564,1991,1.0,1,{9},#To Cross the Rubicon#
+1565,1992,1.0,1,{9},#Daens#
+1566,1943,1.0,1,{9},#Man from Down Under, The#
+1567,1992,1.0,1,{6},#Careful#
+1568,1992,1.0,1,{6,15},#Vermont Is For Lovers#
+1569,1987,1.0,1,{6,9},#Vie est belle, La#
+1570,1992,1.0,1,{6},#Quartier Mozart#
+1571,1973,1.0,1,{9},#Touki Bouki#
+1572,1982,1.0,1,{9},#Wend Kuuni#
+1573,1968,2.5,2,{12},#Spirits of the Dead#
+1574,1995,1.0,1,{18},#Pharaoh's Army#
+1575,1990,1.0,1,{9},#I, Worst of All#
+1576,1987,1.0,1,{10},#Hungarian Fairy Tale, A#
+1577,1956,1.0,1,{9},#Death in the Garden#
+1578,1967,2.0,2,{9},#Collectionneuse, La#
+1579,1988,1.0,1,{17},#Baton Rouge#
+1580,1933,1.0,1,{15},#Liebelei#
+1581,1950,1.0,1,{14},#Woman in Question, The#
+1582,1947,1.0,1,{11},#T-Men#
+1583,1986,1.0,1,{9},#Invitation, The#
+1584,1946,1.0,1,{9},#Symphonie pastorale, La#
+1585,1990,2.5,2,{8},#American Dream#
+1586,1992,1.0,1,{2,7,9},#Lashou shentan#
+1587,1958,1.0,1,{19},#Terror in a Texas Town#
+1588,1997,2.0,2,{6,9},#Salut cousin!#
+1589,1997,3.0,4,{6},#Schizopolis#
+1590,1997,2.0,2,{9},#To Have, or Not#
+1591,1998,3.17,6,{9},#Duoluo tianshi#
+1592,1998,3.6,5,{9},#Magic Hour, The#
+1593,1996,4.0,1,{6},#Death in Brunswick#
+1594,1998,4.5,2,{8},#Everest#
+1595,1996,2.0,1,{2,17},#Shopping#
+1596,1995,2.0,1,{2,16,17},#Nemesis 2: Nebula#
+1597,1992,3.0,5,{2,9},#Romper Stomper#
+1598,1997,2.5,6,{7,17},#City of Industry#
+1599,1996,5.0,1,{9},#Someone Else's America#
+1600,1997,3.75,4,{6},#Guantanamera#
+1601,1997,1.0,1,{17},#Office Killer#
+1602,1998,3.33,3,{9},#Price Above Rubies, A#
+1603,1996,3.0,1,{9},#Angela#
+1604,1948,4.0,1,{7,11,17},#He Walked by Night#
+1605,1997,3.0,4,{6},#Love Serenade#
+1606,1997,2.0,1,{7},#Deceiver#
+1607,1998,3.33,3,{9},#Hurricane Streets#
+1608,1997,2.25,4,{3,5,9},#Buddy#
+1609,1997,1.67,3,{6},#B*A*P*S#
+1610,1997,2.0,3,{2,7,15},#Truth or Consequences, N.M.#
+1611,1997,3.0,2,{6},#Intimate Relations#
+1612,1998,3.75,4,{15},#Leading Man, The#
+1613,1998,4.0,1,{2,9},#Tokyo Fist#
+1614,1958,3.0,1,{6,9},#Reluctant Debutante, The#
+1615,1997,3.0,10,{2,3,5,10},#Warriors of Virtue#
+1616,1995,4.0,1,{9},#Desert Winds#
+1617,1997,3.0,2,{15},#Hugo Pool#
+1618,1990,1.0,1,{2,7},#King of New York#
+1619,1996,3.0,1,{9},#All Things Fair#
+1620,1997,3.22,9,{6},#Sixth Man, The#
+1621,1996,1.0,1,{17},#Butterfly Kiss#
+1622,1993,2.33,3,{6},#Paris, France#
+1623,1996,4.0,3,{9},#C�r�monie, La#
+1624,1998,2.0,1,{17},#Hush#
+1625,1997,4.0,1,{12,17},#Nightwatch#
+1626,1996,1.0,1,{6,9},#Nobody Loves Me#
+1627,1996,3.0,1,{6,9},#Wife, The#
+1628,1994,3.75,4,{9},#Lamerica#
+1629,1995,4.0,2,{8},#Nico Icon#
+1630,1996,3.0,1,{9},#Silence of the Palace, The#
+1631,1993,3.5,2,{6,9},#Slingshot, The#
+1632,1996,3.0,1,{18},#Land and Freedom#
+1633,1996,3.0,1,{6,9},#� k�ldum klaka#
+1634,1996,2.0,1,{9},#Etz Hadomim Tafus#
+1635,1986,3.0,1,{9},#Two Friends#
+1636,1996,4.0,1,{9},#Brothers in Trouble#
+1637,1996,3.0,1,{9},#Girls Town#
+1638,1996,3.0,1,{7,9},#Normal Life#
+1639,1996,4.33,3,{9},#Bitter Sugar#
+1640,1996,3.0,1,{9},#Eighth Day, The#
+1641,1996,3.0,1,{8},#Dadetown#
+1642,1996,4.5,2,{9},#Some Mother's Son#
+1643,1997,3.75,4,{9},#Angel Baby#
+1644,1997,1.5,2,{6},#Sudden Manhattan#
+1645,1998,4.0,1,{9},#Butcher Boy, The#
+1646,1998,3.5,2,{2,9},#Men With Guns#
+1647,1998,3.0,1,{6,7,9},#Hana-bi#
+1648,1998,2.0,1,{9},#Niagara, Niagara#
+1649,1998,3.0,1,{6,8},#Big One, The#
+1650,1998,4.0,1,{9},#Butcher Boy, The#
+1651,1998,4.0,1,{9,17},#Spanish Prisoner, The#
+1652,1997,1.67,3,{15},#Temptress Moon#
+1653,1996,5.0,1,{9},#Entertaining Angels: The Dorothy Day Story#
+1654,1998,1.0,1,{6},#Chairman of the Board#
+1655,1994,2.0,1,{6,15},#Favor, The#
+1656,1998,3.5,2,{6,15},#Little City#
+1657,1996,3.0,1,{2,9},#Target#
+1658,1996,3.0,3,{9},#Substance of Fire, The#
+1659,1996,1.0,1,{6},#Getting Away With Murder#
+1660,1996,2.0,1,{9},#Small Faces#
+1661,1994,1.0,1,{9},#New Age, The#
+1662,1997,2.5,2,{9,15},#Rough Magic#
+1663,1997,2.0,1,{9,18},#Nothing Personal#
+1664,1997,3.25,4,{6},#8 Heads in a Duffel Bag#
+1665,1997,2.0,1,{9},#Brother's Kiss, A#
+1666,1997,2.0,1,{9},#Ripe#
+1667,1997,3.0,1,{9},#Next Step, The#
+1668,1997,3.0,1,{6},#Wedding Bell Blues#
+1669,1997,2.0,1,{7,9,14},#MURDER and murder#
+1670,1998,3.0,1,{6,17},#Tainted#
+1671,1998,1.0,1,{9},#Further Gesture, A#
+1672,1993,2.0,2,{9},#Kika#
+1673,1995,3.0,1,{2,17},#Mirage#
+1674,1962,4.0,1,{9},#Mamma Roma#
+1675,1996,3.0,1,{9},#Sunchaser, The#
+1676,1996,2.0,1,{9},#War at Home, The#
+1677,1996,3.0,1,{9},#Sweet Nothing#
+1678,1998,1.0,1,{9},#Mat' i syn#
+1679,1998,3.0,1,{15,17},#B. Monkey#
+1680,1998,2.0,1,{9,15},#Sliding Doors#
+1681,1994,3.0,1,{6},#You So Crazy#
+1682,1996,3.0,1,{9},#Scream of Stone#

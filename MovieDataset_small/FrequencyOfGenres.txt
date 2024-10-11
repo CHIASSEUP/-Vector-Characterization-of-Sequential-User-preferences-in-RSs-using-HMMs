@@ -1,0 +1,21 @@
+Action,1,543
+Crime,2,437
+Drama,3,1547
+Thriller,4,685
+Adventure,5,359
+Romance,6,533
+Comedy,7,855
+Fantasy,8,227
+Science Fiction,9,322
+Mystery,10,216
+Music,11,105
+Family,12,145
+Horror,13,280
+Documentary,14,111
+History,15,132
+War,16,89
+Western,17,61
+Animation,18,74
+Foreign,19,80
+TV Movie,20,23
+Other,21,1
